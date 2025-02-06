@@ -1,0 +1,199 @@
+Index,Region,Country
+1,ASI,Afghanistan
+2,AFR,Ägypten
+3,EUR,Albanien
+4,AFR,Algerien
+5,EUR,Andorra
+6,AFR,Angola
+7,AME,Antigua und Barbuda
+8,AFR,Äquatorialguinea
+9,AME,Argentinien
+10,ASI,Armenien
+11,ASI,Aserbaidschan
+12,AFR,Äthiopien
+13,AOA,Australien
+14,AME,Bahamas
+15,ASI,Bahrain
+16,ASI,Bangladesch
+17,AME,Barbados
+18,EUR,Belgien
+19,AME,Belize
+20,AFR,Benin
+21,ASI,Bhutan
+22,AME,Bolivien
+23,EUR,Bosnien und Herzegowina
+24,AFR,Botsuana
+25,AME,Brasilien
+26,ASI,Brunei Darussalam
+27,EUR,Bulgarien
+28,AFR,Burkina Faso
+29,AFR,Burundi
+30,AME,Chile
+31,ASI,China
+32,AOA,Cookinseln
+33,AME,Costa Rica
+34,AFR,Côte d'Ivoire
+35,EUR,Dänemark
+36,EUR,Deutschland
+37,AME,Dominica
+38,AME,Dominikanische Republik
+39,AFR,Dschibuti
+40,AME,Ecuador
+41,AME,El Salvador
+42,AFR,Eritrea
+43,EUR,Estland
+44,AOA,Fidschi
+45,EUR,Finnland
+46,EUR,Frankreich
+47,AFR,Gabun
+48,AFR,Gambia
+49,ASI,Georgien
+50,AFR,Ghana
+51,AME,Grenada
+52,EUR,Griechenland
+53,AME,Guatemala
+54,AFR,Guinea
+55,AFR,Guinea-Bissau
+56,AME,Guyana
+57,AME,Haiti
+58,AME,Honduras
+59,ASI,Indien
+60,ASI,Indonesien
+61,ASI,Irak
+62,ASI,Iran
+63,EUR,Irland
+64,EUR,Island
+65,ASI,Israel
+66,EUR,Italien
+67,AME,Jamaika
+68,ASI,Japan
+69,ASI,Jemen
+70,ASI,Jordanien
+71,ASI,Kambodscha
+72,AFR,Kamerun
+73,AME,Kanada
+74,AFR,Kap Verde
+75,ASI,Kasachstan
+76,ASI,Katar
+77,AFR,Kenia
+78,ASI,Kirgisistan
+79,AOA,Kiribati
+80,AME,Kolumbien
+81,AFR,Komoren
+82,AFR,Kongo
+83,AFR,"Kongo, Demokratische Republik"
+84,ASI,"Korea, Demokratische Volksrepublik"
+85,ASI,"Korea, Republik"
+86,EUR,Kosovo
+87,EUR,Kroatien
+88,AME,Kuba
+89,ASI,Kuwait
+90,ASI,Laos
+91,AFR,Lesotho
+92,EUR,Lettland
+93,ASI,Libanon
+94,AFR,Liberia
+95,AFR,Libyen
+96,EUR,Liechtenstein
+97,EUR,Litauen
+98,EUR,Luxemburg
+99,AFR,Madagaskar
+100,AFR,Malawi
+101,ASI,Malaysia
+102,ASI,Malediven
+103,AFR,Mali
+104,EUR,Malta
+105,AFR,Marokko
+106,AOA,Marshallinseln
+107,AFR,Mauretanien
+108,AFR,Mauritius
+109,EUR,Mazedonien
+110,ANT,McMurdo-Station
+111,AME,Mexiko
+112,AOA,Mikronesien
+113,EUR,Moldau
+114,EUR,Monaco
+115,ASI,Mongolei
+116,EUR,Montenegro
+117,AFR,Mosambik
+118,ASI,Myanmar
+119,AFR,Namibia
+120,AOA,Nauru
+121,ASI,Nepal
+122,AOA,Neuseeland
+123,AME,Nicaragua
+124,EUR,Niederlande
+125,AFR,Niger
+126,AFR,Nigeria
+127,AOA,Niue
+128,EUR,Norwegen
+129,ASI,Oman
+130,EUR,Österreich
+131,ASI,Pakistan
+132,AOA,Palau
+133,AME,Panama
+134,AOA,Papua-Neuguinea
+135,AME,Paraguay
+136,AME,Peru
+137,ASI,Philippinen
+138,EUR,Polen
+139,EUR,Portugal
+140,AFR,Ruanda
+141,EUR,Rumänien
+142,EUR,Russische Föderation
+143,AOA,Salomonen
+144,AFR,Sambia
+145,AOA,Samoa
+146,EUR,San Marino
+147,AFR,São Tomé und Príncipe
+148,ASI,Saudi-Arabien
+149,EUR,Schweden
+150,EUR,Schweiz
+151,AFR,Senegal
+152,EUR,Serbien
+153,AFR,Seychellen
+154,AFR,Sierra Leone
+155,AFR,Simbabwe
+156,ASI,Singapur
+157,EUR,Slowakei
+158,EUR,Slowenien
+159,AFR,Somalia
+160,EUR,Spanien
+161,ASI,Sri Lanka
+162,AME,St. Kitts und Nevis
+163,AME,St. Lucia
+164,AME,St. Vincent und die Grenadinen
+165,AFR,Südafrika
+166,AFR,Sudan
+167,AFR,Südsudan
+168,AME,Suriname
+169,AFR,Swasiland
+170,ASI,Syrien
+171,ASI,Tadschikistan
+172,AFR,Tansania
+173,ASI,Thailand
+174,ASI,Timor-Leste
+175,AFR,Togo
+176,AOA,Tonga
+177,AME,Trinidad und Tobago
+178,AFR,Tschad
+179,EUR,Tschechische Republik
+180,AFR,Tunesien
+181,EUR,Türkei
+182,ASI,Turkmenistan
+183,AOA,Tuvalu
+184,AFR,Uganda
+185,EUR,Ukraine
+186,EUR,Ungarn
+187,AME,Uruguay
+188,ASI,Usbekistan
+189,AOA,Vanuatu
+190,EUR,Vatikanstadt
+191,AME,Venezuela
+192,ASI,Vereinigte Arabische Emirate
+193,AME,Vereinigte Staaten
+194,EUR,Vereinigtes Königreich
+195,ASI,Vietnam
+196,EUR,Weißrussland
+197,AFR,Zentralafrikanische Republik
+198,EUR,Zypern
