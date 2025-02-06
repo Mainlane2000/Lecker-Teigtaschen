@@ -12,7 +12,7 @@ body {
     font-size: 1.6rem;
     color: #fff;
     background-color: transparent;
-    height: 50px;
+    height: 75px;
     overflow: hidden;
 }
 .site_header_flex {
@@ -61,9 +61,35 @@ a {
 .header_right {
     left: auto;
     right: 0;
-    position: absolute;
+}
+
+.search {
+    width: 200px;
     display: flex;
     align-items: center;
+    padding: 14px;
+    border-radius: 28px;
+    background: transparent;
+    
+}
+.search:focus-within {
+    background: #fff;
+    padding: 0px;
+}
+.search_input {
+    font-size: 1.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 14px;
+    outline: none;
+    border: none;
+    background: transparent;
+    width: 150px;
+}
+.search_input::placeholder {
+    color: #fff;
+}
+.search_input:focus::placeholder{
+    color: #333333;
 }
 #image1 {
     width: 100%;
