@@ -58,6 +58,9 @@ a {
     outline-offset: -3px;
     transition: color .25s;
 }
+.site_nav_li:hover {
+    color:#333333;
+}
 .header_right {
     left: auto;
     right: 0;
@@ -90,6 +93,12 @@ a {
 }
 .search_input:focus::placeholder{
     color: #333333;
+}
+.search:has(.search_input:focus) {
+    color:#333333;
+}
+.search_icon {
+    margin-left: 10px;
 }
 #image1 {
     width: 100%;
