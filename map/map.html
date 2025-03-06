@@ -59,20 +59,7 @@
        <!-- main body for map-->
         <main class="site_main">
 
-            <div id="map"></div>
-
-            <script>
-                const key = 'YQiWAKWzhUFrlcLimkP9';
-                const map = L.map('map').setView([0, 0], 2);
-                if(map != null){
-                    console.log("Map is not null");
-                }
-                const mtLayer = L.maptilerlayer({
-                  apiKey: key,
-                  style: 'https://api.maptiler.com/maps/streets/style.json?key=' + key
-                }).addTo(map);
-              </script>
-
+            <iframe width="500" height="300" src="https://api.maptiler.com/maps/033d489b-d907-4f2b-9b46-1e339a6bf0be/?key=YQiWAKWzhUFrlcLimkP9#7.1/51.08762/9.26864"></iframe>
         </main>
         <footer class="site_footer">
 
