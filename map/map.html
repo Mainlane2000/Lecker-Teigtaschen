@@ -6,19 +6,16 @@
     <title>The Dumpling Project Map</title>
 
     <!--stylesheets-->
-
     <link rel="stylesheet" type="text/css" href="map_style.css">
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&icon_names=search" />
 
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <link href="https://cdn.maptiler.com/maptiler-sdk-js/v3.0.1/maptiler-sdk.css" rel="stylesheet" />
 
     <!--scripts-->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="https://cdn.maptiler.com/maptiler-sdk-js/v3.0.1/maptiler-sdk.umd.min.js"></script>
-    <script src="https://cdn.maptiler.com/leaflet-maptilersdk/v4.0.2/leaflet-maptilersdk.umd.min.js"></script>
-    <script src="https://cdn.klokantech.com/maptilerlayer/v1/index.js"></script>
+    <script src="map_script.js"></script>
+    
 
 </head>
 <body>
@@ -59,7 +56,32 @@
        <!-- main body for map-->
         <main class="site_main">
 
-            <iframe width="500" height="300" src="https://api.maptiler.com/maps/033d489b-d907-4f2b-9b46-1e339a6bf0be/?key=YQiWAKWzhUFrlcLimkP9#7.1/51.08762/9.26864"></iframe>
+            <!-- map layout menu-->
+            <div id="menubox_map">
+                <div id="infotext_map">
+                    <h2>Auf dieser Seite finden Sie die Weltkarte mit Markierungen für die verschiedenen Teigtaschen eines jeden Landes.</h2>
+                    <h2>Sie können entweder durch klicken auf "Weltkarte" die Karte frei erkunden, oder durch die auswahl eines Kontinents einen pre definierten Kartenausschnitt genauer betrachten.</h2>
+                </div>
+                <div id="menubox_map">
+                    <div id="worldmap_menu">
+                        <button id="worldmap" onclick="worldmap()">Weltkarte</button>
+                    </div>
+                    <h2>Wählen Sie einen Kontinent aus:</h2>
+                    <div id="continent_menu">
+                        <button id="europe" onclick="europe()">Europa</button>
+                        <button id="asia" onclick="asia()">Asien</button>
+                        <button id="africa" onclick="africa()">Afrika</button>
+                        <button id="northamerica" onclick="northamerica()">Nordamerika</button>
+                        <button id="southamerica" onclick="southamerica()">Südamerika</button>
+                        <button id="australia" onclick="australia()">Australien</button>
+                    </div>
+            </div>
+            <!-- actual Map-->
+
+            <div id="map"></div>
+            
+
+            <!-- <iframe width="500" height="300" src="https://api.maptiler.com/maps/033d489b-d907-4f2b-9b46-1e339a6bf0be/?key=YQiWAKWzhUFrlcLimkP9#7.1/51.08762/9.26864"></iframe> -->
         </main>
         <footer class="site_footer">
 
