@@ -98,102 +98,102 @@ Index,Region,Country,LAT,LONG
 97,EUR,Litauen,54.38N,25.19E
 98,EUR,Luxemburg,49.37N,06.09E
 99,AFR,Madagaskar,18.55S,47.31E
-100,AFR,Malawi
-101,ASI,Malaysia
-102,ASI,Malediven
-103,AFR,Mali
-104,EUR,Malta
-105,AFR,Marokko
-106,AOA,Marshallinseln
-107,AFR,Mauretanien
-108,AFR,Mauritius
-109,EUR,Mazedonien
-110,ANT,McMurdo-Station
-111,AME,Mexiko
-112,AOA,Mikronesien
-113,EUR,Moldau
-114,EUR,Monaco
-115,ASI,Mongolei
-116,EUR,Montenegro
-117,AFR,Mosambik
-118,ASI,Myanmar
-119,AFR,Namibia
-120,AOA,Nauru
-121,ASI,Nepal
-122,AOA,Neuseeland
-123,AME,Nicaragua
-124,EUR,Niederlande
-125,AFR,Niger
-126,AFR,Nigeria
-127,AOA,Niue
-128,EUR,Norwegen
-129,ASI,Oman
-130,EUR,Österreich
-131,ASI,Pakistan
-132,AOA,Palau
-133,AME,Panama
-134,AOA,Papua-Neuguinea
-135,AME,Paraguay
-136,AME,Peru
-137,ASI,Philippinen
-138,EUR,Polen
-139,EUR,Portugal
-140,AFR,Ruanda
-141,EUR,Rumänien
-142,EUR,Russische Föderation
-143,AOA,Salomonen
-144,AFR,Sambia
-145,AOA,Samoa
-146,EUR,San Marino
-147,AFR,São Tomé und Príncipe
-148,ASI,Saudi-Arabien
-149,EUR,Schweden
-150,EUR,Schweiz
-151,AFR,Senegal
-152,EUR,Serbien
-153,AFR,Seychellen
-154,AFR,Sierra Leone
-155,AFR,Simbabwe
-156,ASI,Singapur
-157,EUR,Slowakei
-158,EUR,Slowenien
-159,AFR,Somalia
-160,EUR,Spanien
-161,ASI,Sri Lanka
-162,AME,St. Kitts und Nevis
-163,AME,St. Lucia
-164,AME,St. Vincent und die Grenadinen
-165,AFR,Südafrika
-166,AFR,Sudan
-167,AFR,Südsudan
-168,AME,Suriname
-169,AFR,Swasiland
-170,ASI,Syrien
-171,ASI,Tadschikistan
-172,AFR,Tansania
-173,ASI,Thailand
-174,ASI,Timor-Leste
-175,AFR,Togo
-176,AOA,Tonga
-177,AME,Trinidad und Tobago
-178,AFR,Tschad
-179,EUR,Tschechische Republik
-180,AFR,Tunesien
-181,EUR,Türkei
-182,ASI,Turkmenistan
-183,AOA,Tuvalu
-184,AFR,Uganda
-185,EUR,Ukraine
-186,EUR,Ungarn
-187,AME,Uruguay
-188,ASI,Usbekistan
-189,AOA,Vanuatu
-190,EUR,Vatikanstadt
-191,AME,Venezuela
-192,ASI,Vereinigte Arabische Emirate
-193,AME,Vereinigte Staaten
-194,EUR,Vereinigtes Königreich
-195,ASI,Vietnam
-196,EUR,Weißrussland
-197,AFR,Zentralafrikanische Republik
-198,EUR,Zypern
+100,AFR,Malawi,14.00S,33.48E
+101,ASI,Malaysia,03.09N,101.41E
+102,ASI,Malediven,04.00N,73.28E
+103,AFR,Mali,12.34N,07.55W
+104,EUR,Malta,35.54N,14.31E
+105,AFR,Marokko,34.02N,06.50W
+106,AOA,Marshallinseln,07.07N,171.22E
+107,AFR,Mauretanien,18.05N,15.58W
+108,AFR,Mauritius,20.20S,57.50E
+109,EUR,Mazedonien,42.01N,21.26E
+110,ANT,McMurdo-Station,77.50S,166.40E
+111,AME,Mexiko,19.20N,99.10W
+112,AOA,Mikronesien,06.55N,158.09E
+113,EUR,Moldau,47.02N,28.50E
+114,EUR,Monaco,43.73N,07.42E
+115,ASI,Mongolei,47.55N,106.55E
+116,EUR,Montenegro,42.26N,19.16E
+117,AFR,Mosambik,25.58S,32.35E
+118,ASI,Myanmar,16.45N,96.20E
+119,AFR,Namibia,22.35S,17.04E
+120,AOA,Nauru,0.53S,166.93E
+121,ASI,Nepal,27.45N,85.20E
+122,AOA,Neuseeland,41.19S,174.46E
+123,AME,Nicaragua,12.06N,86.20W
+124,EUR,Niederlande,52.23N,04.54E
+125,AFR,Niger,13.27N,02.06E
+126,AFR,Nigeria,09.05N,07.32E
+127,AOA,Niue,19.03S,169.86W
+128,EUR,Norwegen,59.55N,10.45E
+129,ASI,Oman,23.37N,58.36E
+130,EUR,Österreich,48.12N,16.22E
+131,ASI,Pakistan,33.40N,73.10E
+132,AOA,Palau,07.45N,134.54E
+133,AME,Panama,09.00N,79.25W
+134,AOA,Papua-Neuguinea,09.24S,147.08E
+135,AME,Paraguay,25.10S,57.30W
+136,AME,Peru,12.00S,77.00W
+137,ASI,Philippinen,14.40N,121.03E
+138,EUR,Polen,52.13N,21.00E
+139,EUR,Portugal,38.42N,09.10W
+140,AFR,Ruanda,01.85S,29.88E
+141,EUR,Rumänien,44.27N,26.10E
+142,EUR,Russische Föderation,55.45N,37.35E
+143,AOA,Salomonen,09.58S,160.07E
+144,AFR,Sambia,15.28S,28.27E
+145,AOA,Samoa,13.83S,171.79W
+146,EUR,San Marino,43.93N,12.45E
+147,AFR,São Tomé und Príncipe,00.32N,06.72E
+148,ASI,Saudi-Arabien,24.41N,46.42E
+149,EUR,Schweden,59.20N,18.03E
+150,EUR,Schweiz,46.57N,07.28E
+151,AFR,Senegal,14.34N,17.29W
+152,EUR,Serbien,44.29N,20.57E
+153,AFR,Seychellen,4.63S,55.43E
+154,AFR,Sierra Leone,08.30N,13.17W
+155,AFR,Simbabwe,18.05S,30.89E
+156,ASI,Singapur,1.30N,103.83E
+157,EUR,Slowakei,48.10N,17.07E
+158,EUR,Slowenien,46.04N,14.33E
+159,AFR,Somalia,02.02N,45.25E
+160,EUR,Spanien,40.25N,03.45W
+161,ASI,Sri Lanka,7.04N,80.22E
+162,AME,St. Kitts und Nevis,17.30N,62.72W
+163,AME,St. Lucia,13.89N,60.98W
+164,AME,St. Vincent und die Grenadinen,13.15N,61.18W
+165,AFR,Südafrika,25.44S,28.12E
+166,AFR,Sudan,15.31N,32.35E
+167,AFR,Südsudan,07.51N,31.01E
+168,AME,Suriname,05.28N,55.52W
+169,AFR,Swasiland,26.18S,31.06E
+170,ASI,Syrien,33.30N,36.18E
+171,ASI,Tadschikistan,38.33N,68.48E
+172,AFR,Tansania,05.82S,35.69E
+173,ASI,Thailand,13.45N,100.35E
+174,ASI,Timor-Leste,08.57S,125,52E
+175,AFR,Togo,06.09N,01.20E
+176,AOA,Tonga,21.10S,174.00W
+177,AME,Trinidad und Tobago,10.26N,61.44E
+178,AFR,Tschad,12.42N,15.44E
+179,EUR,Tschechische Republik,50.05N,14.22E
+180,AFR,Tunesien,36.50N,10.11E
+181,EUR,Türkei,39.57N,32.54E
+182,ASI,Turkmenistan,38.00N,57.50E
+183,AOA,Tuvalu,08.31S,179.13E
+184,AFR,Uganda,00.20N,32.30E
+185,EUR,Ukraine,50.30N,30.28E
+186,EUR,Ungarn,47.29N,19.05E
+187,AME,Uruguay,34.50S,56.11W
+188,ASI,Usbekistan,41.20N,69.10E
+189,AOA,Vanuatu,17.71S,168.31E
+190,EUR,Vatikanstadt,41.90N,12.45E
+191,AME,Venezuela,10.30N,66.55W
+192,ASI,Vereinigte Arabische Emirate,24.28N,54.22E
+193,AME,Vereinigte Staaten,39.91N,77.02W
+194,EUR,Vereinigtes Königreich,51.36N,00.05W
+195,ASI,Vietnam,21.05N,105.55E
+196,EUR,Weißrussland,53.52N,27.30E
+197,AFR,Zentralafrikanische Republik,04.23N,18.35E
+198,EUR,Zypern,35.10N,33.25E
