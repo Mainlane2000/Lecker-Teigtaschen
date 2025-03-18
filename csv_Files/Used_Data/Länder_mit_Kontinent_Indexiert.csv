@@ -1,5 +1,5 @@
-Index,Region,Country
-1,ASI,Afghanistan
+Index,Region,Country,LAT,LONG
+1,ASI,Afghanistan,34.28N,69.11E
 2,AFR,Ägypten
 3,EUR,Albanien
 4,AFR,Algerien
