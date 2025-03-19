@@ -1,4 +1,28 @@
-# Description: This script is used to Create a geoJSON database from the CSV Files in Used_Data folder.
+"""
+Description: This script is used to create a geoJSON database from the CSV files in the Used_Data folder.
+
+Input:
+1. Countries_R_Lat_long.csv:
+   - Columns:
+     - Index: Unique identifier for each country.
+     - Country: Name of the country.
+     - Region: Region of the country.
+     - LAT: Latitude of the country's location.
+     - LONG: Longitude of the country's location.
+
+2. Dumplings.csv:
+   - Columns:
+     - Landesindex: Matches the Index column in Countries_R_Lat_long.csv.
+     - Name_Teigtasche: Name of the dumpling.
+     - Name_Landesprache: Name of the dumpling in the local language.
+     - Zubereitungsart: Preparation method of the dumpling.
+     - Info: Additional information about the dumpling.
+
+Output:
+- Dumplingpoints.geojson:
+  - A geoJSON file containing features with properties such as Country, Region, Dumpling, Info, and popupContent.
+  - Each feature includes a geometry object with type "Point" and coordinates [longitude, latitude].
+"""
 
 # Importing the required modules
 import pandas as pd
@@ -43,7 +67,7 @@ def csv_to_geojson(url_Countries, url_Dumplings, url_geojson):
                        "Region": Region,
                        "Dumpling": dumpling,
                        "Info": Info,
-                       "popupContent": str(dumpling) +" ist eine Teigtasche aus " + str(country) + "in der Sprach des Landes wird die Teigtasche " + str(Name_Landesprache) + "genannt. \n" + "Die Teigtasche wird " + str(Zubereitungsart) + "."
+                       "popupContent": f"{dumpling} ist eine Teigtasche aus {country}. In der Sprache des Landes wird die Teigtasche {Name_Landesprache} genannt.\nDie Teigtasche wird {Zubereitungsart}."
                        },
                    "geometry": {"type": "Point", "coordinates": [long, lat]}}
 
