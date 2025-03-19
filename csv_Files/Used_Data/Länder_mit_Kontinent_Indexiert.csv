@@ -1,0 +1,199 @@
+Index,Region,Country,LAT,LONG
+1,ASI,Afghanistan,34.28,69.11
+2,AFR,Ägypten,30.01,31.14
+3,EUR,Albanien,41.18,19.49
+4,AFR,Algerien,36.42,03.08
+5,EUR,Andorra,42.31,01.32
+6,AFR,Angola,-08.50,13.15
+7,AME,Antigua und Barbuda,17.127,-61.846
+8,AFR,Äquatorialguinea,03.45,08.50
+9,AME,Argentinien,-36.30,-60.00
+10,ASI,Armenien,40.10,44.31
+11,ASI,Aserbaidschan,40.29,49.56
+12,AFR,Äthiopien,09.02,38.42
+13,AOA,Australien,-35.15,149.08
+14,AME,Bahamas,25.05,-77.20
+15,ASI,Bahrain,26.10,50.30E
+16,ASI,Bangladesch,23.43N,90.26E
+17,AME,Barbados,13.05N,59.30W
+18,EUR,Belgien,50.51N,04.21
+19,AME,Belize,17.18,-88.30
+20,AFR,Benin,06.23,02.42
+21,ASI,Bhutan,27.31,89.45
+22,AME,Bolivien,-16.20,-68.10
+23,EUR,Bosnien und Herzegowina,43.52,18.26
+24,AFR,Botsuana,-24.45,25.57
+25,AME,Brasilien,15.47S,47.55W
+26,ASI,Brunei Darussalam,04.52N,115.00E
+27,EUR,Bulgarien,42.45,23.20
+28,AFR,Burkina Faso,12.15,-01.30
+29,AFR,Burundi,-03.16,29.18
+30,AME,Chile,-33.24,-70.40
+31,ASI,China,39.55,116.20
+32,AOA,Cookinseln,-21.12,-159.46
+33,AME,Costa Rica,09.55,-84.02
+34,AFR,Côte d'Ivoire,06.49,-05.17
+35,EUR,Dänemark,55.41,12.34
+36,EUR,Deutschland,52.30,13.25
+37,AME,Dominica,15.20,-61.24
+38,AME,Dominikanische Republik,18.30,-69.59
+39,AFR,Dschibuti,11.08,42.20
+40,AME,Ecuador,-00.15,78.35
+41,AME,El Salvador,13.40,-89.10
+42,AFR,Eritrea,15.19,38.55
+43,EUR,Estland,59.22,24.48
+44,AOA,Fidschi,-18.06,178.30
+45,EUR,Finnland,60.15,25.03
+46,EUR,Frankreich,48.50,02.20
+47,AFR,Gabun,00.25,09.26
+48,AFR,Gambia,13.28,-16.40
+49,EUR,Georgien,41.43,44.50
+50,AFR,Ghana,05.35,-00.06
+51,AME,Grenada,12.05,-61.75
+52,EUR,Griechenland,37.58,23.46
+53,AME,Guatemala,14.40,-90.22
+54,AFR,Guinea,09.29,-13.49
+55,AFR,Guinea-Bissau,11.45,-15.45
+56,AME,Guyana,06.50,-58.12
+57,AME,Haiti,18.40,-72.20
+58,AME,Honduras,14.05,-87.14
+59,ASI,Indien,28.37,77.13
+60,ASI,Indonesien,-06.09,106.49
+61,ASI,Irak,33.20,44.30
+62,ASI,Iran,35.44,51.30
+63,EUR,Irland,53.21,-06.15
+64,EUR,Island,64.10,-21.57
+65,ASI,Israel,31.71,-35.10
+66,EUR,Italien,41.54,12.29
+67,AME,Jamaika,18.00,-76.50
+68,ASI,Japan,35.67,139.65
+69,ASI,Jemen,15.21,44.12
+70,ASI,Jordanien,31.57,35.52
+71,ASI,Kambodscha,11.33,104.55
+72,AFR,Kamerun,03.50,11.35
+73,AME,Kanada,45.27,-75.42
+74,AFR,Kap Verde,15.02,-23.34
+75,ASI,Kasachstan,51.10,71.30
+76,ASI,Katar,25.15,51.35
+77,AFR,Kenia,-01.17,36.48
+78,ASI,Kirgisistan,42.54,74.46
+79,AOA,Kiribati,01.30,173.00
+80,AME,Kolumbien,04.34,-74.00
+81,AFR,Komoren,-11.42,43.15
+82,AFR,Kongo,-04.09,15.12
+83,AFR,"Kongo Demokratische Republik",-04.47,11.50
+84,ASI,"Korea Demokratische Volksrepublik",39.09,125.30
+85,ASI,"Korea Republik",37.31,126.58
+86,EUR,Kosovo,42.40,21.10
+87,EUR,Kroatien,45.50,15.58
+88,AME,Kuba,23.08,-82.22
+89,ASI,Kuwait,29.30,48.00
+90,ASI,Laos,17.58,102.36
+91,AFR,Lesotho,-29.18,27.30
+92,EUR,Lettland,56.53,24.08
+93,ASI,Libanon,33.53,35.31
+94,AFR,Liberia,06.18,-10.47
+95,AFR,Libyen,32.49,13.07
+96,EUR,Liechtenstein,47.08,09.31
+97,EUR,Litauen,54.38,25.19
+98,EUR,Luxemburg,49.37,06.09
+99,AFR,Madagaskar,-18.55,47.31
+100,AFR,Malawi,-14.00,33.48
+101,ASI,Malaysia,03.09,101.41
+102,ASI,Malediven,04.00,73.28
+103,AFR,Mali,12.34,-07.55
+104,EUR,Malta,35.54,14.31
+105,AFR,Marokko,34.02,-06.50
+106,AOA,Marshallinseln,07.07,171.22
+107,AFR,Mauretanien,18.05,-15.58
+108,AFR,Mauritius,-20.20,57.50
+109,EUR,Mazedonien,42.01,21.26
+110,ANT,McMurdo-Station,-77.50,166.40
+111,AME,Mexiko,19.20,-99.10
+112,AOA,Mikronesien,06.55,158.09
+113,EUR,Moldau,47.02,28.50
+114,EUR,Monaco,43.73,07.42
+115,ASI,Mongolei,47.55,106.55
+116,EUR,Montenegro,42.26,19.16
+117,AFR,Mosambik,-25.58,32.35
+118,ASI,Myanmar,16.45,96.20
+119,AFR,Namibia,-22.35,17.04
+120,AOA,Nauru,-0.53,166.93
+121,ASI,Nepal,27.45,85.20
+122,AOA,Neuseeland,-41.19,174.46
+123,AME,Nicaragua,12.06,-86.20
+124,EUR,Niederlande,52.23,04.54
+125,AFR,Niger,13.27,02.06
+126,AFR,Nigeria,09.05,07.32
+127,AOA,Niue,-19.03,-169.86
+128,EUR,Norwegen,59.55,10.45
+129,ASI,Oman,23.37,58.36
+130,EUR,Österreich,48.12,16.22
+131,ASI,Pakistan,33.40,73.10
+132,AOA,Palau,07.45,134.54
+133,AME,Panama,09.00,-79.25
+134,AOA,Papua-Neuguinea,-09.24,147.08
+135,AME,Paraguay,-25.10,-57.30
+136,AME,Peru,-12.00,-77.00
+137,ASI,Philippinen,14.40,121.03
+138,EUR,Polen,52.13,21.00
+139,EUR,Portugal,38.42,-09.10
+140,AFR,Ruanda,-01.85,29.88
+141,EUR,Rumänien,44.27,26.10
+142,EUR,Russische Föderation,55.45,37.35
+143,AOA,Salomonen,-09.58,160.07
+144,AFR,Sambia,-15.28,28.27
+145,AOA,Samoa,-13.83,-171.79
+146,EUR,San Marino,43.93,12.45
+147,AFR,São Tomé und Príncipe,00.32,06.72
+148,ASI,Saudi-Arabien,24.41,46.42
+149,EUR,Schweden,59.20,18.03
+150,EUR,Schweiz,46.57,07.28
+151,AFR,Senegal,14.34,-17.29
+152,EUR,Serbien,44.29,20.57
+153,AFR,Seychellen,4.63S,55.43E
+154,AFR,Sierra Leone,08.30,-13.17
+155,AFR,Simbabwe,-18.05,30.89
+156,ASI,Singapur,1.30,103.83
+157,EUR,Slowakei,48.10,17.07
+158,EUR,Slowenien,46.04,14.33
+159,AFR,Somalia,02.02,45.25
+160,EUR,Spanien,40.25,-03.45
+161,ASI,Sri Lanka,7.04,80.22
+162,AME,St. Kitts und Nevis,17.30,-62.72
+163,AME,St. Lucia,13.89,-60.98
+164,AME,St. Vincent und die Grenadinen,13.15,-61.18
+165,AFR,Südafrika,-25.44,28.12
+166,AFR,Sudan,15.31,32.35
+167,AFR,Südsudan,07.51,31.01
+168,AME,Suriname,05.28,-55.52
+169,AFR,Swasiland,-26.18,31.06
+170,ASI,Syrien,33.30,36.18
+171,ASI,Tadschikistan,38.33,68.48
+172,AFR,Tansania,-05.82,35.69
+173,ASI,Thailand,13.45,100.35
+174,ASI,Timor-Leste,-08.57,125.52
+175,AFR,Togo,06.09,01.20
+176,AOA,Tonga,-21.10,-174.00
+177,AME,Trinidad und Tobago,10.26,61.44
+178,AFR,Tschad,12.42,15.44
+179,EUR,Tschechische Republik,50.05,14.22
+180,AFR,Tunesien,36.50,10.11
+181,EUR,Türkei,39.57,32.54
+182,ASI,Turkmenistan,38.00,57.50
+183,AOA,Tuvalu,-08.31,179.13
+184,AFR,Uganda,00.20,32.30
+185,EUR,Ukraine,50.30,30.28
+186,EUR,Ungarn,47.29,19.05
+187,AME,Uruguay,-34.50,-56.11
+188,ASI,Usbekistan,41.20,69.10
+189,AOA,Vanuatu,-17.71,168.31
+190,EUR,Vatikanstadt,41.90,12.45
+191,AME,Venezuela,10.30,-66.55
+192,ASI,Vereinigte Arabische Emirate,24.28,54.22
+193,AME,Vereinigte Staaten,39.91,-77.02
+194,EUR,Vereinigtes Königreich,51.36,-00.05
+195,ASI,Vietnam,21.05,105.55
+196,EUR,Weißrussland,53.52,27.30
+197,AFR,Zentralafrikanische Republik,04.23,18.35
+198,EUR,Zypern,35.10,33.25
