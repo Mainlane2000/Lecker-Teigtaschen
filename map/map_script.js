@@ -1,6 +1,6 @@
-import L from 'leaflet';
-
-fuc = 0; // function use counter    0 = no function used yet
+// Description: This script is used to create the map and the functions to change the view of the map to the selected continent.
+// Functions to change the map view to the selected continent
+var fuc = 0; // function use counter    0 = no function used yet
 
 function worldmap(){
     if (fuc > 0) {
@@ -65,7 +65,7 @@ function southamerica() {
 }
 function australia() {
     if (fuc > 0) {
-        map.flyTo([-26.94, 153.58], 4);
+        L.map.setView([-26.94, 153.58], 4);
 
     } else {
     var map = L.map('map').setView([-26.94, 153.58], 4);
@@ -80,4 +80,7 @@ function startmap(map) {
         attribution:'&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 }
+
+//Functions to add mapmarkers to the map from geoJSON file 
+
 
