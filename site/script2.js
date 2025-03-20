@@ -103,6 +103,8 @@ function autocomplete(inp, arr) {
     });
 }
 
+console.log("WARUM FUNKTIONIERT DER MERGE NICHT???");
+
 autocomplete(document.getElementById("myInput"), namearray);
 var toStorage;
 var getInputValue = document.getElementById("myInput");
