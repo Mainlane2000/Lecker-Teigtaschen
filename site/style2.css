@@ -4,6 +4,7 @@ body {
     font-weight: 300;
     font-size: 1.8rem;
     line-height: 1;
+    background-color: #0f227a;
 }
 .site_wrapper {
     position: relative;

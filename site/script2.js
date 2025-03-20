@@ -6,16 +6,16 @@ function search(){
         suchfunktion(data);
         }
     };
-    xhttp.open("GET", "../test2.json", true);
+    xhttp.open("GET", "../TeigtaschenDerWelt.json", true);
     xhttp.send();
 
     function suchfunktion(data) {
         //console.log(data);
-        //var namearray = [];
         for(var i = 0; i < data.length; i++) {
             for(var i in data) {
-                if(namearray.indexOf(data[i].name) < 0) {
-                    namearray.push(data[i].name);
+                all_data.push(data[i]);
+                if(namearray.indexOf(data[i].Name_Teigtasche) < 0) {
+                    namearray.push(data[i].Name_Teigtasche);
                 }
                 else {
 
@@ -26,8 +26,10 @@ function search(){
     }
 }
 var namearray = [];
+var all_data = [];
 search();
-console.log(namearray);
+//console.log(namearray);
+console.log(all_data);
 
 function autocomplete(inp, arr) {
     var currentFocus;
@@ -42,14 +44,14 @@ function autocomplete(inp, arr) {
         a.setAttribute("class", "autocomplete-items");
 
         this.parentNode.appendChild(a);
-        console.log(a + "a1");
+        //console.log(a + "a1");
         for(i = 0; i < arr.length; i++) {
             if(arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
                 b = document.createElement("DIV");
                 b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
                 b.innerHTML += arr[i].substr(val.length);
                 b.innerHTML += "<input type='hidden' value='" + arr[i] + "'>";
-                console.log(b);
+                //console.log(b);
                 b.addEventListener("click", function(e) {
                     inp.value = this.getElementsByTagName("input")[0].value;
                     closeAllLists();
@@ -57,8 +59,8 @@ function autocomplete(inp, arr) {
                 a.appendChild(b);
             }
         }
-        console.log(b);
-        console.log(a + "a2");
+        //console.log(b);
+        //console.log(a + "a2");
     });
     inp.addEventListener("keydown", function(e) {
         var x = document.getElementById(this.id + "autocomplete-list");
@@ -102,3 +104,25 @@ function autocomplete(inp, arr) {
 }
 
 autocomplete(document.getElementById("myInput"), namearray);
+var toStorage;
+var getInputValue = document.getElementById("myInput");
+
+getInputValue.addEventListener("keyup", function(e){
+    if(e.key == "Enter") {
+        for(var i = 0; i < namearray.length; i++) {
+            if(namearray[i] == getInputValue.value) {
+                toStorage = getInputValue.value;
+            }
+        }
+        if(getInputValue.value != toStorage) {
+            toStorage = null;
+        }
+    }
+    console.log(toStorage);
+    if(toStorage != null) {
+        localStorage.setItem("dumplingName", toStorage);
+        localStorage.setItem("nameArray", JSON.stringify(namearray));
+        localStorage.setItem("allData", JSON.stringify(all_data));
+        window.location.href = "modular-site.html";
+    }
+});
