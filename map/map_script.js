@@ -133,14 +133,14 @@ function add_geo_points(region, selected_region) {
         fetch(geojson_url)
             .then(response => response.json())
             .then(data => {
-                geojson_layer.addData(data, {
+                L.geoJSON(data, {
                     onEachFeature: function (feature, layer) {
                         layer.bindPopup(feature.properties.popupContent);
                     }
                 }).addTo(map);
             });
     } else {
-        // TODO: Implement functionality for adding geo points for the selected region.
+        // TODO: Implement functionality for adding and removing geo points for the selected region.
     }
 
 }
