@@ -1,7 +1,6 @@
 // Description: This script is used to create the map and the functions to change the view of the map to the selected continent.
 
 // Functions to change the map view to the selected continent
-var fuc = 0; // function use counter    0 = no function used yet
 
 //Urls for the js
 const kontinente_url = './Files/Used_Data/json/Kontinente.json';
@@ -9,6 +8,8 @@ const geojson_url = '../Files/Used_Data/geojson/Dumplingpoints.geojson';
 
 // variable for the map
 var map;
+var fuc = 0; // function use counter    0 = no function used yet
+var onetimer = false; // one time function use
 
 function map_selection(region) {
     //console.log(region);
@@ -122,56 +123,56 @@ function start_map(map) {
 
 // Function to add the geo points to the map
 function add_geo_points(region, selected_region) {
+    //initialising variable 
+    var geojson_layer;
 
-    var geojson_layer = L.geoJSON();
+    //var to chose mode of add_geo_points
+    const mode = 0; // 0 = deploy all points, 1 = change region mode
 
-    //geojson_layer.removeLayer();
-    
+    //fetching the geojson file
+    fetch(geojson_url)
+    .then(response => response.json())
+    .then(data => {
 
-    if (selected_region == 'worldmap') {
-        // Get all the data from the geojson file -> https://www.reddit.com/r/learnjavascript/comments/13vuuq7/how_to_import_json_files_in_js/
-        fetch(geojson_url)
-            .then(response => response.json())
-            .then(data => {
-                L.geoJSON(data, {
-                    onEachFeature: function (feature, layer) {
-                        layer.bindPopup(feature.properties.popupContent);
-                    }
-                }).addTo(map);
-            });
-    } else {
-        // TODO: Implement functionality for adding and removing geo points for the selected region.
-    }
+        //mode 0 = deploy all points
+        if (mode == 0 && onetimer == false) {
+            onetimer = true;
+            L.geoJSON(data, {
+                onEachFeature: function (feature, layer) {
+                    layer.bindPopup(feature.properties.popupContent);
+                }
+            }).addTo(map);
+            
+        //mode 1 = change region mode
+        } else if (mode == 1) {
 
+            switch (selected_region) {
+                case "worldmap":
+                    geojson_layer = L.geoJSON(data, {
+                        onEachFeature: function (feature, layer) {
+                            layer.bindPopup(feature.properties.popupContent);
+                        }
+                    }).addTo(map);
+                    break;
+                case "europe":
+                    geojson_layer.removeLayer();
+                    return 'EUR';
+                case "asia":
+                    return 'ASI';
+                case "africa":
+                    return'AFR';
+                case "northamerica":
+                    return 'AME';
+                case "southamerica":
+                    return 'AME';
+                case "australia":
+                    return 'AOA';
+                default:
+                    console.error("No valid selection! at: get_data()");
+            }
+            
+        } else {
+            console.error("No valid mode selected!");
+        }
+    });
 }
-    
-
-// Get the data from the json "Kontinente" file and connect its Region Tag to "region"
-/* function get_data(region) {
-    async function get_json() {
-        const response = await fetch(kontinente_url);
-        const data = await response.json();
-        return data;
-    } 
-
-    //region_codes = get_json();
-
-    switch (region) {
-        case "worldmap":
-            return 'worldmap';
-        case "europe":
-            return 'EUR';
-        case "asia":
-            return 'ASI';
-        case "africa":
-            return'AFR';
-        case "northamerica":
-            return 'AME';
-        case "southamerica":
-            return 'AME';
-        case "australia":
-            return 'AOA';
-        default:
-            console.error("No valid selection! at: get_data()");
-    }
-} */
