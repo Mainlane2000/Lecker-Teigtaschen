@@ -78,6 +78,6 @@ def csv_to_geojson(url_Countries, url_Dumplings, url_geojson):
 
     #writing the geoJSON to file
     with open(url_geojson, 'w') as f:
-        json.dump(geoJSON, f)
+        json.dump(geoJSON, f, indent= 1)
   
 csv_to_geojson(url_Countries, url_Dumplings, url_geojson)
