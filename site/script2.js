@@ -25,11 +25,33 @@ function search(){
         //console.log(namearray);
     }
 }
+function suchen(){
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        var data2 = JSON.parse(this.responseText);
+        suchfunktion2(data2);
+        }
+    };
+    xhttp.open("GET", "../countries.json", true);
+    xhttp.send();
+    
+    function suchfunktion2(data2) {
+        for(var i = 0; i < data2.length; i++) {
+            for(var i in data2) {
+                all_countries.push(data2[i]);
+            }
+        }
+    }
+}
 var namearray = [];
 var all_data = [];
+var all_countries = [];
 search();
+suchen();
 //console.log(namearray);
-console.log(all_data);
+//console.log(all_data);
+//console.log(all_countries);
 
 function autocomplete(inp, arr) {
     var currentFocus;
@@ -103,8 +125,6 @@ function autocomplete(inp, arr) {
     });
 }
 
-console.log("WARUM FUNKTIONIERT DER MERGE NICHT???");
-
 autocomplete(document.getElementById("myInput"), namearray);
 var toStorage;
 var getInputValue = document.getElementById("myInput");
@@ -125,6 +145,7 @@ getInputValue.addEventListener("keyup", function(e){
         localStorage.setItem("dumplingName", toStorage);
         localStorage.setItem("nameArray", JSON.stringify(namearray));
         localStorage.setItem("allData", JSON.stringify(all_data));
+        localStorage.setItem("allCountries", JSON.stringify(all_countries));
         window.location.href = "modular-site.html";
     }
 });

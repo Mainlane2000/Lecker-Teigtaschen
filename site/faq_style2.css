@@ -1,0 +1,71 @@
+.oben_fett {
+    display: flex;
+    padding: 20px;
+    border-bottom: 1px solid #d4d4d4;
+}
+.oben_fett p{
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container_oben {
+    margin: 60px;
+    margin-top: 40px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-bottom: 1px solid #d4d4d4;
+    color: #656363;
+    background-color: #fff;
+    box-sizing: border-box;
+    /*display: grid;
+    grid-template-columns: auto 1fr;
+    */
+}
+.container_oben ul{
+    list-style: none;
+}
+.container_oben .dropdown_button{
+    border-radius: .5em;
+    padding: .85em;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 1em;
+    width: 100%;
+    text-align: left;
+    background: none;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+    color: #656363;
+}
+.container_oben svg{
+    flex-shrink: 0;
+    fill: #656363;
+}
+.dropdown_button span{
+    flex-grow: 1;
+}
+.dropdown_button:hover{
+    background-color: #d4d4d4;
+}
+.sub_menu{
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: 300ms ease-in-out;
+
+    >div{
+        overflow: hidden;
+    }
+}
+.sub_menu.show{
+    grid-template-rows: 1fr;
+}
+.dropdown_button svg{
+    transition: 200ms ease;
+}
+.rotate svg:last-child{
+    rotate: 180deg;
+}
+.sub_menu span{
+    padding-left: 2em;
+}
