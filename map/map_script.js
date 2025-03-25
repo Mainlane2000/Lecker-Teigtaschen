@@ -144,6 +144,7 @@ function add_geo_points(region, selected_region) {
             }).addTo(map);
             
         //mode 1 = change region mode
+        //@ToDo: add functinality to change the regionmarkers on the map
         } else if (mode == 1) {
 
             switch (selected_region) {
