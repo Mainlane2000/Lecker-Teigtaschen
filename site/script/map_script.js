@@ -2,9 +2,9 @@
 
 // Functions to change the map view to the selected continent
 
-//Urls for the js
-const kontinente_url = './Files/Used_Data/json/Kontinente.json';
-const geojson_url = '../Files/Used_Data/geojson/Dumplingpoints.geojson';
+//Urls for the json files
+const geojson_url = '../../Database/Map_Data/geojson/Dumplingpoints.geojson';
+
 
 // variable for the map
 var map;
