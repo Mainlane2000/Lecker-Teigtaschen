@@ -49,5 +49,25 @@ var fact_arr = [
     {
         "id":7,
         "text":"Man kann nicht zu viele Teigtaschen essen."
+    },
+    {
+        "id":8,
+        "text":"Chicken Nuggets werden ab und zu fälschlicher Weise als Teigtasche missidentifiziert, jedoch handelt es sich hierbei um ein meist industrielle paniertes Produkt."
+     },
+    {
+        "id":9,
+        "text":"Mann könnte backen als eine Garform für Teigtaschen betrachten, wir Persönlich sehen das genauso und haben deshalb gebackene Teigtaschen auch in die Sammlung aufgenommen, allerdings gelten sie durch ihre Zubereitungsart als Backwaren."
+    },
+    {
+        "id":10,
+        "text":"Teigtaschen sind niemals Füllungslos."
+    },
+    {
+        "id":11,
+        "text":"Es gibt Teigtaschen die nicht ganz geschlossen sind. Z.B.: Boraki aus Armenien."
+    },
+    {
+        "id":12,
+        "text":"Es gibt immer eine Teigtasche diem mann noch nie zuvor Probiert hat, und es lohnt sich dem nachzukommen."
     }
 ]
