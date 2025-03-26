@@ -116,6 +116,7 @@ function australia() {
 // Function to add a base layer to the map -> OpenStreetMap
 function start_map(map) {
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        noWrap: true,
         maxZoom: 6,
         attribution:'&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
