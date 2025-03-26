@@ -1,5 +1,5 @@
 function game() {
-    var n = Math.floor(6 *Math.random())+1;
+    var n = Math.floor(10 *Math.random())+1;
     var rdm_fact = fact_arr[n];
     var rein = "";
     var getSiteDiv = document.getElementById("hier_rein");
@@ -8,7 +8,7 @@ function game() {
     getSiteDiv.innerHTML = rein;
 }
 function reroll() {
-    var n = Math.floor(7 *Math.random())+1;
+    var n = Math.floor(11 *Math.random())+1;
     var rdm_fact = fact_arr[n];
     var rein = "";
     var getSiteDiv = document.getElementById("hier_rein");
@@ -56,7 +56,7 @@ var fact_arr = [
      },
     {
         "id":9,
-        "text":"Mann könnte backen als eine Garform für Teigtaschen betrachten, wir Persönlich sehen das genauso und haben deshalb gebackene Teigtaschen auch in die Sammlung aufgenommen, allerdings gelten sie durch ihre Zubereitungsart als Backwaren."
+        "text":"Mann könnte Backen als eine Garform für Teigtaschen betrachten, wir Persönlich sehen das genauso und haben deshalb gebackene Teigtaschen auch in die Sammlung aufgenommen, allerdings gelten sie durch ihre Zubereitungsart als Backwaren."
     },
     {
         "id":10,
