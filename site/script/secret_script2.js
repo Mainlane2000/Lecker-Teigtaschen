@@ -8,7 +8,7 @@ function game() {
     getSiteDiv.innerHTML = rein;
 }
 function reroll() {
-    var n = Math.floor(6 *Math.random())+1;
+    var n = Math.floor(7 *Math.random())+1;
     var rdm_fact = fact_arr[n];
     var rein = "";
     var getSiteDiv = document.getElementById("hier_rein");
@@ -32,18 +32,22 @@ var fact_arr = [
     },
     {
         "id":3,
-        "text":"Fact3"
+        "text":"Am 5. Tag des neuen Jahres werden in China Teigtaschen gegessen welche Reichtum und Wohlstand repräsentieren."
     },
     {
         "id":4,
-        "text":"Fact4"
+        "text":"Auf chinesisch heißt Wonton -Wolken schlucken-"
     },
     {
         "id":5,
-        "text":"Fact5"
+        "text":"Die Perfekte Dippingsauce für Gyoza besteht aus 1/3 Reisessig, 1/3 Sojasauce und 1/3 Chiliöl."
     },
     {
         "id":6,
         "text":"Teigtaschen können auch eine süße Füllung enthalten."
+    },
+    {
+        "id":7,
+        "text":"Man kann nicht zu viele Teigtaschen essen."
     }
 ]
