@@ -1,5 +1,5 @@
 function game() {
-    var n = Math.floor(10 *Math.random())+1;
+    var n = Math.floor(12 *Math.random())+1;
     var rdm_fact = fact_arr[n];
     var rein = "";
     var getSiteDiv = document.getElementById("hier_rein");
@@ -8,7 +8,7 @@ function game() {
     getSiteDiv.innerHTML = rein;
 }
 function reroll() {
-    var n = Math.floor(11 *Math.random())+1;
+    var n = Math.floor(12 *Math.random())+1;
     var rdm_fact = fact_arr[n];
     var rein = "";
     var getSiteDiv = document.getElementById("hier_rein");
@@ -56,18 +56,18 @@ var fact_arr = [
      },
     {
         "id":9,
-        "text":"Mann könnte Backen als eine Garform für Teigtaschen betrachten, wir Persönlich sehen das genauso und haben deshalb gebackene Teigtaschen auch in die Sammlung aufgenommen, allerdings gelten sie durch ihre Zubereitungsart als Backwaren."
+        "text":"Man könnte Backen als eine Garform für Teigtaschen betrachten, wir Persönlich sehen das genauso und haben deshalb gebackene Teigtaschen auch in die Sammlung aufgenommen, allerdings gelten sie durch ihre Zubereitungsart eigentlich als Backwaren."
     },
     {
         "id":10,
-        "text":"Teigtaschen sind niemals Füllungslos."
+        "text":"Teigtaschen sind niemals füllungslos."
     },
     {
         "id":11,
-        "text":"Es gibt Teigtaschen die nicht ganz geschlossen sind. Z.B.: Boraki aus Armenien."
+        "text":"Es gibt Teigtaschen die nicht ganz geschlossen sind. Ein Beispiel dafür sind Boraki aus Armenien."
     },
     {
         "id":12,
-        "text":"Es gibt immer eine Teigtasche diem mann noch nie zuvor Probiert hat, und es lohnt sich dem nachzukommen."
+        "text":"Es gibt immer eine Teigtasche die man noch nie zuvor probiert hat, und es lohnt sich dem nachzukommen."
     }
 ]
