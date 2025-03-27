@@ -118,63 +118,67 @@ function start_map(map) {
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         noWrap: true,
         maxZoom: 6,
-        attribution:'&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 }
+//geojson data
+var geodata;
+fetch(geojson_url)
+    .then(response => response.json())
+    .then(data => {geodata = data});
+
+//initialising variable for layerpoints
+var geojson_layer;
 
 // Function to add the geo points to the map
 function add_geo_points(region, selected_region) {
-    //initialising variable 
-    var geojson_layer;
 
     //var to chose mode of add_geo_points
-    const mode = 0; // 0 = deploy all points, 1 = change region mode
+    const mode = 1; // 0 = deploy all points, 1 = change region mode
 
-    //fetching the geojson file
-    fetch(geojson_url)
-    .then(response => response.json())
-    .then(data => {
-
-        //mode 0 = deploy all points
-        if (mode == 0 && onetimer == false) {
-            onetimer = true;
-            L.geoJSON(data, {
-                onEachFeature: function (feature, layer) {
-                    layer.bindPopup(feature.properties.popupContent);
-                }
-            }).addTo(map);
-            
-        //mode 1 = change region mode
-        //@ToDo: add functinality to change the regionmarkers on the map
-        } else if (mode == 1) {
-
-            switch (selected_region) {
-                case "worldmap":
-                    geojson_layer = L.geoJSON(data, {
-                        onEachFeature: function (feature, layer) {
-                            layer.bindPopup(feature.properties.popupContent);
-                        }
-                    }).addTo(map);
-                    break;
-                case "europe":
-                    geojson_layer.removeLayer();
-                    return 'EUR';
-                case "asia":
-                    return 'ASI';
-                case "africa":
-                    return'AFR';
-                case "northamerica":
-                    return 'AME';
-                case "southamerica":
-                    return 'AME';
-                case "australia":
-                    return 'AOA';
-                default:
-                    console.error("No valid selection! at: get_data()");
+    //mode 0 = deploy all points
+    if (mode == 0 && onetimer == false) {
+        onetimer = true;
+        L.geoJSON(geodata, {
+            onEachFeature: function (feature, layer) {
+                layer.bindPopup(feature.properties.popupContent);
             }
+        }).addTo(map);
             
-        } else {
-            console.error("No valid mode selected!");
+    //mode 1 = change region mode
+    //@ToDo: add functinality to change the regionmarkers on the map
+    } else if (mode == 1) {
+
+        switch (selected_region) {
+            case "worldmap":
+                geojson_layer = L.geoJSON(geodata, {
+                    onEachFeature: function (feature, layer) {
+                        layer.bindPopup(feature.properties.popupContent);
+                    }
+                }).addTo(map);
+                console.log(geojson_layer);
+                break;
+            case "EUR":
+                console.log(geojson_layer);
+                geojson_layer = 0;
+                geojson_layer.addTo(map);
+                return 'EUR';
+            case "ASI":
+                return 'ASI';
+            case "AFR":
+                return'AFR';
+            case "AME":
+                return 'AME';
+            case "AME":
+                return 'AME';
+            case "AOA":
+                return 'AOA';
+            default:
+                console.error("No valid selection! at: add_geo_points mode 1");
         }
-    });
+            
+    } else {
+        console.error("No valid mode selected!");
+    }
+    
 }
