@@ -1,14 +1,3 @@
-body {
-    color: #111;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 300;
-    font-size: 1.8rem;
-    line-height: 1;
-    background-color: #0f227a;
-}
-.site_wrapper {
-    position: relative;
-}
 .site_header {
     font-size: 1.6rem;
     color: #fff;
@@ -64,6 +53,12 @@ a {
 }
 .site_nav_li:hover {
     color: #fff;
+}
+.nav_btn {
+    background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
 }
 .header_right {
     left: auto;
@@ -169,39 +164,4 @@ input[type=submit] {
     background-color: #fff;
     margin-top: 5px;
     font-size: 1.4rem;
-}
-.content_container {
-    margin: 60px;
-    margin-top: 40px;
-}
-.erstelltes {
-    color: #656363;
-    background-color: #fff;
-    display: flex;
-    padding: 60px;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-}
-.left {
-    display: inline-block;
-}
-.left_name {
-    font-size: 2rem;
-    font-weight: bold;
-}
-.left_nat {
-    font-style: italic;
-}
-.left_des {
-    margin-top: 5px;
-}
-.right {
-    display: inline-block;
-    min-width: 200px;
-}
-.right_country p{
-    font-size: 2rem;
-    margin-left: auto;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-right: auto;
 }
