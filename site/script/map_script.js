@@ -16,31 +16,31 @@ function map_selection(region) {
     switch (region) {
         case "worldmap":
             worldmap();
-            add_geo_points(region, 'worldmap');
+            add_geo_points('worldmap');
             break;
         case "europe":
             europe();
-            add_geo_points(region, 'EUR');
+            add_geo_points('EUR');
             break;
         case "asia":
             asia();
-            add_geo_points(region, 'ASI');
+            add_geo_points('ASI');
             break;
         case "africa":
             africa();
-            add_geo_points(region, 'AFR');
+            add_geo_points('AFR');
             break;
         case "northamerica":
             northamerica();
-            add_geo_points(region, 'AME');
+            add_geo_points('AME');
             break;
         case "southamerica":
             southamerica();
-            add_geo_points(region, 'AME');
+            add_geo_points('AME');
             break;
         case "australia":
             australia();
-            add_geo_points(region, 'AOA');
+            add_geo_points('AOA');
             break;
         default:
             console.error("Invalid selection");
@@ -127,10 +127,7 @@ fetch(geojson_url)
     .then(response => response.json())
     .then(data => {geodata = data});
 
-// Function to add the geo points to the map
-function add_geo_points(region, selected_region) {
-
-    //Layer variable
+     //Layer variable
     //console.log("step 1 layer variable");
 
     var worldmap_ = L.geoJSON();
@@ -140,34 +137,9 @@ function add_geo_points(region, selected_region) {
     var AME_ = L.geoJSON();
     var AOA_ = L.geoJSON();
 
-    // add the geo points to a layer
-    //console.log("step 2 add geoinfo to layer");
 
-    L.geoJSON(geodata, {
-        onEachFeature: function (feature, layer) {
-            //console.log(feature.properties.Region);
-
-            // Create a popup for each feature with no content from the geojson file
-                if (feature.properties.Region == "EUR") {
-                    EUR_.addLayer(layer);
-                    layer.bindPopup(feature.properties.popupContent);
-                } else if (feature.properties.Region == "ASI") {
-                    ASI_.addLayer(layer);
-                    layer.bindPopup(feature.properties.popupContent);
-                } else if (feature.properties.Region == "AFR") {
-                    AFR_.addLayer(layer);
-                    layer.bindPopup(feature.properties.popupContent);
-                } else if (feature.properties.Region == "AME") {
-                    AME_.addLayer(layer);
-                    layer.bindPopup(feature.properties.popupContent);
-                } else if (feature.properties.Region == "AOA") {
-                    AOA_.addLayer(layer);
-                    layer.bindPopup(feature.properties.popupContent);
-                }else {
-                    console.error("No valid region found!");
-                }
-        }
-    });
+// Function to add the geo points to the map
+function add_geo_points(selected_region) {
 
     //var to chose mode of add_geo_points
     const mode = 1; // 0 = deploy all points, 1 = change region mode
@@ -182,27 +154,72 @@ function add_geo_points(region, selected_region) {
         }).addTo(map);
             
     //mode 1 = change region mode
-    //@ToDo: add functinality to change the regionmarkers on the map
+
+    //adding the geo points to the variables only once
     } else if (mode == 1) {
+        if (onetimer == false){
+            onetimer = true;
+
+            //adding markerinfo from geojson to layergroup variables
+            L.geoJSON(geodata, {
+                onEachFeature: function (feature, layer) {
+
+                    //to worldmap layer
+                    worldmap_.addLayer(layer);
+                    layer.bindPopup(feature.properties.popupContent);
+
+                    //to specific region layer
+                    if (feature.properties.Region == "EUR") {
+                        EUR_.addLayer(layer);
+                        layer.bindPopup(feature.properties.popupContent);
+                    } else if (feature.properties.Region == "ASI") {
+                        ASI_.addLayer(layer);
+                        layer.bindPopup(feature.properties.popupContent);
+                    } else if (feature.properties.Region == "AFR") {
+                        AFR_.addLayer(layer);
+                        layer.bindPopup(feature.properties.popupContent);
+                    } else if (feature.properties.Region == "AME") {
+                        AME_.addLayer(layer);
+                        layer.bindPopup(feature.properties.popupContent);
+                    } else if (feature.properties.Region == "AOA") {
+                        AOA_.addLayer(layer);
+                        layer.bindPopup(feature.properties.popupContent);
+                    }else {
+                        console.error("No valid region found!");
+                    }
+                }
+            });
+        }
+
         //removing previous layers
-        if(map.hasLayer(EUR_) == true) {
-            console.log("removing EUR_ layer");
+        if(map.hasLayer(worldmap_)) {
+            map.removeLayer(worldmap_);
+        }
+        if(map.hasLayer(EUR_)) {
             map.removeLayer(EUR_);
         }
         if(map.hasLayer(ASI_)) {
             map.removeLayer(ASI_);
         }
+        if(map.hasLayer(AFR_)) {
+            map.removeLayer(AFR_);
+        }
+        if(map.hasLayer(AME_)) {
+            map.removeLayer(AME_);
+        }
+        if(map.hasLayer(AOA_)) {
+            map.removeLayer(AOA_);
+        }
 
         switch (selected_region) {
             case "worldmap":
+                worldmap_.addTo(map);
                 break;
             case "EUR":
                 EUR_.addTo(map);
-                console.log(map.hasLayer(EUR_));
                 break;
             case "ASI":
                 ASI_.addTo(map);
-                console.log(map.hasLayer(EUR_));
                 break;
             case "AFR":
                 AFR_.addTo(map);
