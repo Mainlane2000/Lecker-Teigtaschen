@@ -117,7 +117,7 @@ function australia() {
 function start_map(map) {
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         noWrap: true,
-        maxZoom: 6,
+        maxZoom: 10,
         attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 }

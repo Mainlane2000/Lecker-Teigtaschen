@@ -96,12 +96,12 @@ function trivia() {
         var hTmL = document.getElementById("trivia_content");
         var trivia_Game = "";
         trivia_Game += "<h2>Trivia</h2>";
-        trivia_Game += "<figure><img src='" + data[n].Bilder_Link + "' alt='Teigtasche' width='300' height='300' id='trivia_picture'><figcaption>'" + data[n].Credit_link + "'</figcaption></figure>";
+        trivia_Game += "<figure><img src='" + data[n].Bilder_Link + "' alt='Teigtasche' width='300' height='300' id='trivia_picture'><figcaption>" + data[n].Credit_link + "</figcaption></figure>";
         trivia_Game += "<p id='trivia_question'>Wie heißt diese Teigtasche?</p>";
         trivia_Game += "<button class='btn' id='btn1' onclick='checkAnswer(this,0)'>" + data[n].Name_Teigtasche + "</button>";
 
         var n2 = Math.floor(Math.random() * data.length);
-        while (1 != 2) {
+        while (true) {
             if (n == n2) {
                 n2 = Math.floor(Math.random() * data.length);
             } else if (data[n2].Name_Teigtasche != "na") {
@@ -121,7 +121,7 @@ function trivia() {
 function checkAnswer(button,answer) {
     if (answer == 0) {
         button.classList.add("green");
-    } if (answer == 1) {
+    } else if (answer == 1) {
         button.classList.add("red");
     }
     setTimeout(() => {
