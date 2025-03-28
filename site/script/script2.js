@@ -6,14 +6,14 @@ function search(){
         suchfunktion(data);
         }
     };
-    xhttp.open("GET", "../../Database/TeigtaschenDerWelt3.json", true);
+    xhttp.open("GET", "../../Database/TeigtaschenDerWelt.json", true);
     xhttp.send();
 
     function suchfunktion(data) {
         //console.log(data);
         for(var i = 0; i < data.length; i++) {
             for(var i in data) {
-                if(data[i].Name_Teigtasche!= "na"){
+                if(data[i].Name_Teigtasche != "na"){
                     all_data.push(data[i]);
                     if(namearray.indexOf(data[i].Name_Teigtasche) < 0) {
                     namearray.push(data[i].Name_Teigtasche);
