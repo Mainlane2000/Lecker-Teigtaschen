@@ -96,21 +96,35 @@ function trivia() {
         var hTmL = document.getElementById("trivia_content");
         var trivia_Game = "";
         trivia_Game += "<h2>Trivia</h2>";
-        trivia_Game += "<figure><img src='" + data[n].Bilder_Link + "' alt='Teigtasche' width='300' height='300'><figcaption>'" + data[n].Credit_link + "'</figcaption></figure>";
-        trivia_Game += "<p>Wie heißt diese Teigtasche?</p>";
-        trivia_Game += "<button class='btn' id='btn1' onclick='checkAnswer(0)'>" + data[n].Name_Teigtasche + "</button>";
-        if (data[n + 10].Name_Teigtasche != "na") {
-            if (n + 10 >= data.length) {
-                trivia_Game += "<button class='btn' id='btn2' onclick='checkAnswer(1)'>" + data[n + 10].Name_Teigtasche + "</button>";
+        trivia_Game += "<figure><img src='" + data[n].Bilder_Link + "' alt='Teigtasche' width='300' height='300' id='trivia_picture'><figcaption>'" + data[n].Credit_link + "'</figcaption></figure>";
+        trivia_Game += "<p id='trivia_question'>Wie heißt diese Teigtasche?</p>";
+        trivia_Game += "<button class='btn' id='btn1' onclick='checkAnswer(this,0)'>" + data[n].Name_Teigtasche + "</button>";
+
+        var n2 = Math.floor(Math.random() * data.length);
+        while (1 != 2) {
+            if (n == n2) {
+                n2 = Math.floor(Math.random() * data.length);
+            } else if (data[n2].Name_Teigtasche != "na") {
+                trivia_Game += "<button class='btn' id='btn2' onclick='checkAnswer(this,1)'>" + data[n2].Name_Teigtasche + "</button>";
+                break;
+            } else {
+                n2 = Math.floor(Math.random() * data.length);
             }
-            trivia_Game += "<button class='btn' id='btn2' onclick='checkAnswer(1)'>" + data[n - 10].Name_Teigtasche + "</button>";
         }
+
         hTmL.innerHTML = trivia_Game;
     } else {
         trivia();
     }
 }
 
-function checkAnswer(answer) {
-    
+function checkAnswer(button,answer) {
+    if (answer == 0) {
+        button.classList.add("green");
+    } if (answer == 1) {
+        button.classList.add("red");
+    }
+    setTimeout(() => {
+        trivia();
+    }, 4000);
 }
