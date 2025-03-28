@@ -245,3 +245,7 @@ input[type=submit] {
 .left_name p {
     margin: 0px;
 }
+#map {
+    height: 200px;
+    width: 100%;
+}

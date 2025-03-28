@@ -7,9 +7,11 @@ localStorage.clear();
 //console.log(dumpling_name);
 //console.log(dumplingnameArray);
 //console.log(everything);
-//console.log(every_country);
+console.log(every_country);
 
 var selected_dumpling = [];
+var lat;
+var long;
 
 function content_creation() {
     for(var i = 0; i < dumplingnameArray.length; i++) {
@@ -25,6 +27,8 @@ function content_creation() {
     for(var p = 0; p < every_country.length; p++) {
         if(every_country[p].Index == selected_dumpling[0].Landesindex) {
             country = every_country[p].Country;
+            lat = every_country[p].LAT;
+            long = every_country[p].LONG;
         }
     }
     var getSiteDiv = document.getElementById("hier_rein");
@@ -61,15 +65,32 @@ function content_creation() {
         '<img src="'+dumpling_img+'" alt="" class="erstelltes-bild">'+
     '</div>'+
             '<div class="right_map">'+
-
+                '<div id="map"></div>'+
             '</div>'+
         '</div>'
     '</div>'+
 '</div>';
     //console.log(neuer_div);
-    console.log("test");
+    //console.log("test");
     getSiteDiv.innerHTML = neuer_div;
+
+    //timeout for map creation
+    setTimeout(() => {
+        minimap();
+    }, 40);
 }
 
 content_creation();
 //console.log(selected_dumpling);
+
+function minimap (){
+    var map;
+    map = L.map('map').setView([lat, long], 3);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        noWrap: true,
+        maxZoom: 4,
+        minZoom: 4,
+        attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+    var marker = L.marker([lat, long]).addTo(map);
+}

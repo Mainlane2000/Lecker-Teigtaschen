@@ -50,12 +50,12 @@ function map_selection(region) {
 // Functions to create the map for each continent
 function worldmap(){
     if (fuc == 0) {
-    map = L.map('map').setView([0, 0], 0);
+    map = L.map('map').setView([0, 0], 2);
     start_map(map);
     fuc++;
     } else {
-        if (!map.getCenter().equals([0, 0]) || map.getZoom() !== 0) {
-            map.flyTo([0, 0], 0);
+        if (!map.getCenter().equals([0, 0]) || map.getZoom() !== 2) {
+            map.flyTo([0, 0], 2);
         }
     }          
 }
@@ -118,6 +118,7 @@ function start_map(map) {
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         noWrap: true,
         maxZoom: 10,
+        minZoom: 2,
         attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 }
