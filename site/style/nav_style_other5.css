@@ -174,12 +174,14 @@ input[type=submit] {
     margin: 60px;
     margin-top: 40px;
 }
-.erstelltes {
+.erstelltes-container {
     color: #656363;
     background-color: #fff;
-    display: flex;
     padding: 60px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.erstelltes {
+    display: flex;
 }
 .left {
     display: inline-block;
@@ -192,11 +194,11 @@ input[type=submit] {
     font-style: italic;
 }
 .left_des {
+    text-align: justify;
     margin-top: 5px;
 }
 .right {
     display: inline-block;
-    min-width: 200px;
 }
 .right_country p{
     font-size: 1.5rem;
@@ -231,5 +233,15 @@ input[type=submit] {
     height: 60px;
 }
 .footer-text p{
+    margin: 0px;
+}
+.erstelltes-bild {
+    width: 400px;
+}
+.erstelltes-bild-container {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.left_name p {
     margin: 0px;
 }
