@@ -127,11 +127,47 @@ fetch(geojson_url)
     .then(response => response.json())
     .then(data => {geodata = data});
 
-//initialising variable for layerpoints
-var geojson_layer;
-
 // Function to add the geo points to the map
 function add_geo_points(region, selected_region) {
+
+    //Layer variable
+    //console.log("step 1 layer variable");
+
+    var worldmap_ = L.geoJSON();
+    var EUR_ = L.geoJSON();
+    var ASI_ = L.geoJSON();
+    var AFR_ = L.geoJSON();
+    var AME_ = L.geoJSON();
+    var AOA_ = L.geoJSON();
+
+    // add the geo points to a layer
+    //console.log("step 2 add geoinfo to layer");
+
+    L.geoJSON(geodata, {
+        onEachFeature: function (feature, layer) {
+            //console.log(feature.properties.Region);
+
+            // Create a popup for each feature with no content from the geojson file
+                if (feature.properties.Region == "EUR") {
+                    EUR_.addLayer(layer);
+                    layer.bindPopup(feature.properties.popupContent);
+                } else if (feature.properties.Region == "ASI") {
+                    ASI_.addLayer(layer);
+                    layer.bindPopup(feature.properties.popupContent);
+                } else if (feature.properties.Region == "AFR") {
+                    AFR_.addLayer(layer);
+                    layer.bindPopup(feature.properties.popupContent);
+                } else if (feature.properties.Region == "AME") {
+                    AME_.addLayer(layer);
+                    layer.bindPopup(feature.properties.popupContent);
+                } else if (feature.properties.Region == "AOA") {
+                    AOA_.addLayer(layer);
+                    layer.bindPopup(feature.properties.popupContent);
+                }else {
+                    console.error("No valid region found!");
+                }
+        }
+    });
 
     //var to chose mode of add_geo_points
     const mode = 1; // 0 = deploy all points, 1 = change region mode
@@ -148,31 +184,35 @@ function add_geo_points(region, selected_region) {
     //mode 1 = change region mode
     //@ToDo: add functinality to change the regionmarkers on the map
     } else if (mode == 1) {
+        //removing previous layers
+        if(map.hasLayer(EUR_) == true) {
+            console.log("removing EUR_ layer");
+            map.removeLayer(EUR_);
+        }
+        if(map.hasLayer(ASI_)) {
+            map.removeLayer(ASI_);
+        }
 
         switch (selected_region) {
             case "worldmap":
-                geojson_layer = L.geoJSON(geodata, {
-                    onEachFeature: function (feature, layer) {
-                        layer.bindPopup(feature.properties.popupContent);
-                    }
-                }).addTo(map);
-                console.log(geojson_layer);
                 break;
             case "EUR":
-                console.log(geojson_layer);
-                geojson_layer = 0;
-                geojson_layer.addTo(map);
-                return 'EUR';
+                EUR_.addTo(map);
+                console.log(map.hasLayer(EUR_));
+                break;
             case "ASI":
-                return 'ASI';
+                ASI_.addTo(map);
+                console.log(map.hasLayer(EUR_));
+                break;
             case "AFR":
-                return'AFR';
+                AFR_.addTo(map);
+                break;
             case "AME":
-                return 'AME';
-            case "AME":
-                return 'AME';
+                AME_.addTo(map);
+                break;
             case "AOA":
-                return 'AOA';
+                AOA_.addTo(map);
+                break;
             default:
                 console.error("No valid selection! at: add_geo_points mode 1");
         }
