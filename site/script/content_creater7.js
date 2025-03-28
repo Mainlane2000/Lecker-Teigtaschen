@@ -32,12 +32,42 @@ function content_creation() {
     var description = selected_dumpling[0].Description;
     description = description.replaceAll("_",",");
     var natlang = selected_dumpling[0].Name_Landesprache;
+    var dumpling_img = "";
+    if(selected_dumpling[0].Bilder_Link == "na") {
+        dumpling_img = "https://upload.wikimedia.org/wikipedia/commons/3/3f/Placeholder_view_vector.svg";
+    } else {
+        dumpling_img = selected_dumpling[0].Bilder_Link;
+    }
+    
 
-    
-    neuer_div += '<div class ="erstelltes"><div class="left"><div class="left_name">'+dumpling_name+'</div><div class="left_nat">'+natlang+'</div><div class="left_des">'+description+'</div></div><div class="right"><div class="right_country"><p>Aus '+country+'</p></div></div></div>';
-    
+    neuer_div += 
+    '<div class="erstelltes-container">'+
+    '<div class="erstelltes">'+
+        '<div class="left">'+
+            '<div class="left_name">'+
+                dumpling_name+
+                ' aus '+
+                country+
+            '</div>'+
+            '<div class="left_nat">'+
+                natlang+
+            '</div>'+
+            '<div class="left_des">'+
+                description+
+            '</div>'+
+        '</div>'+
+        '<div class="right">'+
+            '<div class="erstelltes-bild-container">'+
+        '<img src="'+dumpling_img+'" alt="" class="erstelltes-bild">'+
+    '</div>'+
+            '<div class="right_map">'+
+
+            '</div>'+
+        '</div>'
+    '</div>'+
+'</div>';
     //console.log(neuer_div);
-    
+    console.log("test");
     getSiteDiv.innerHTML = neuer_div;
 }
 
