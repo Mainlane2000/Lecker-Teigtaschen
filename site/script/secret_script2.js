@@ -88,24 +88,23 @@ async function fetchData() {
 fetchData();
 
 function trivia() {
-
     var n = Math.floor(Math.random() * data.length);
 
     if (data[n].Name_Teigtasche != "na" && data[n].Bilder_Link != "na") {
         
         var hTmL = document.getElementById("trivia_content");
         var trivia_Game = "";
-        trivia_Game += "<h2>Trivia</h2>";
-        trivia_Game += "<figure><img src='" + data[n].Bilder_Link + "' alt='Teigtasche' width='300' height='300' id='trivia_picture'><figcaption>" + data[n].Credit_link + "</figcaption></figure>";
-        trivia_Game += "<p id='trivia_question'>Wie heißt diese Teigtasche?</p>";
-        trivia_Game += "<button class='btn' id='btn1' onclick='checkAnswer(this,0)'>" + data[n].Name_Teigtasche + "</button>";
+        trivia_Game += "<div class ='title'><p>Trivia</p></div>";
+        trivia_Game += "<figure id='trivia-fig'><img src='" + data[n].Bilder_Link + "' alt='Teigtasche' width='300' height='300' id='trivia_picture'><figcaption id='trivia-cap'>" + data[n].Credit_link + "</figcaption></figure>";
+        trivia_Game += "<div class = 'triv-quest'><p id='trivia_question'>Wie heißt diese Teigtasche?</p></div>";
+        trivia_Game += "<div class = 'triv-btn'><button class='btn' id='btn1' onclick='checkAnswer(this,0)'>" + data[n].Name_Teigtasche + "</button>";
 
         var n2 = Math.floor(Math.random() * data.length);
         while (true) {
             if (n == n2) {
                 n2 = Math.floor(Math.random() * data.length);
             } else if (data[n2].Name_Teigtasche != "na") {
-                trivia_Game += "<button class='btn' id='btn2' onclick='checkAnswer(this,1)'>" + data[n2].Name_Teigtasche + "</button>";
+                trivia_Game += "<button class='btn' id='btn2' onclick='checkAnswer(this,1)'>" + data[n2].Name_Teigtasche + "</button></div>";
                 break;
             } else {
                 n2 = Math.floor(Math.random() * data.length);
