@@ -22,9 +22,24 @@
     display: flex;
     flex-wrap: wrap;
 }
-.rein_div{
+.rein_div {
+  width: 400px;
+  height: 355px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.rein_div img{
     width: 300px;
     height: 300px;
+}
+.caption{
+  display: flex;
+}
+.caption span{
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 25px;
 }
 /**.rein_div img {
     width: 300px;
@@ -40,17 +55,17 @@ sonst noch caption bzw caption span
 
 **/
 .field {
-  background-color: #000;
   color: #fff;
   display: inline-block;
   margin: 8px;
-  max-width: 320px;
-  min-width: 240px;
+  width: 300px;
+  height: 300px;
   overflow: hidden;
   position: relative;
   text-align: center;
   width: 100%;
 }
+/**
 .field * {
   box-sizing: border-box;
   transition: all 0.45s ease;
@@ -108,3 +123,4 @@ sonst noch caption bzw caption span
 .field:hover .credits {
   opacity: 1;
 }
+  **/
