@@ -1,0 +1,3337 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Afghanistan",
+    "Region": "ASI",
+    "Dumpling": "Bolani",
+    "Info": "Teigtasche aus Afghanistan",
+    "popupContent": "Bolani ist eine Teigtasche aus Afghanistan. In der Sprache des Landes wird die Teigtasche \u0628\u0648\u0644\u0627\u0646\u06cc genannt.\nDie Teigtasche wird gebraten ."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.11,
+     34.28
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Afghanistan",
+    "Region": "ASI",
+    "Dumpling": "Afghanische Mantu",
+    "Info": "Afghanische version des Mantus",
+    "popupContent": "Afghanische Mantu ist eine Teigtasche aus Afghanistan. In der Sprache des Landes wird die Teigtasche \u0645\u0646\u062a\u0648 genannt.\nDie Teigtasche wird dampfgegart ."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.41,
+     34.28
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "\u00c4gypten",
+    "Region": "AFR",
+    "Dumpling": "Hawawshi",
+    "Info": "Gef\u00fclltes Brot aus \u00c4gypten",
+    "popupContent": "Hawawshi ist eine Teigtasche aus \u00c4gypten. In der Sprache des Landes wird die Teigtasche \u062d\u0648\u0627\u0648\u0634\u064a genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.14,
+     30.01
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "\u00c4gypten",
+    "Region": "AFR",
+    "Dumpling": "Feteer meshalet",
+    "Info": "\u00c4gyptische Bl\u00e4tterteig der mit allem erdenklichen gef\u00fcllt wird",
+    "popupContent": "Feteer meshalet ist eine Teigtasche aus \u00c4gypten. In der Sprache des Landes wird die Teigtasche \u0641\u0637\u064a\u0631 \u0645\u0634\u0644\u062a\u062a genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.44,
+     30.01
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Albanien",
+    "Region": "EUR",
+    "Dumpling": "Albanischer Burek",
+    "Info": "Albanische version des Bureks",
+    "popupContent": "Albanischer Burek ist eine Teigtasche aus Albanien. In der Sprache des Landes wird die Teigtasche Burek genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.49,
+     41.18
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Algerien",
+    "Region": "AFR",
+    "Dumpling": "Mahdjouba / mhadjeb",
+    "Info": "Traditionelle Algerische Fladentasche",
+    "popupContent": "Mahdjouba / mhadjeb ist eine Teigtasche aus Algerien. In der Sprache des Landes wird die Teigtasche \u0645\u062d\u062c\u0648\u0628\u0629 genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.08,
+     36.42
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Andorra",
+    "Region": "EUR",
+    "Dumpling": "Pastissets",
+    "Info": "Taditionelle S\u00fc\u00dfspaeise aus Andorra",
+    "popupContent": "Pastissets ist eine Teigtasche aus Andorra. In der Sprache des Landes wird die Teigtasche Pastissets genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.32,
+     42.31
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Angola",
+    "Region": "AFR",
+    "Dumpling": "Pastels aus Angola",
+    "Info": "Angolische Teigtasche",
+    "popupContent": "Pastels aus Angola ist eine Teigtasche aus Angola. In der Sprache des Landes wird die Teigtasche Pastel genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.15,
+     -8.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Antigua und Barbuda",
+    "Region": "AME",
+    "Dumpling": "Crab and Dumplings",
+    "Info": "Mit Krabbe gef\u00fcllte Teigtasche aus der Karibick",
+    "popupContent": "Crab and Dumplings ist eine Teigtasche aus Antigua und Barbuda. In der Sprache des Landes wird die Teigtasche Crab and Dumplings genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.846,
+     17.127
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "\u00c4quatorialguinea",
+    "Region": "AFR",
+    "Dumpling": "Samosas aus \u00c4quatorialguinea ",
+    "Info": "\u00c4quatorialguineanische version der Samosa",
+    "popupContent": "Samosas aus \u00c4quatorialguinea  ist eine Teigtasche aus \u00c4quatorialguinea. In der Sprache des Landes wird die Teigtasche Samosas genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.5,
+     3.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Argentinien",
+    "Region": "AME",
+    "Dumpling": "Argentinische Empanadas",
+    "Info": "Argentinische version der ber\u00fchmten Teigtasche",
+    "popupContent": "Argentinische Empanadas ist eine Teigtasche aus Argentinien. In der Sprache des Landes wird die Teigtasche Empanadas argentinas  genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.0,
+     -36.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Armenien",
+    "Region": "ASI",
+    "Dumpling": "Armenische Manti",
+    "Info": "Armenische version des Manti",
+    "popupContent": "Armenische Manti ist eine Teigtasche aus Armenien. In der Sprache des Landes wird die Teigtasche \u0574\u0561\u0576\u0569\u056b genannt.\nDie Teigtasche wird dampfgegart / gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.31,
+     40.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Armenien",
+    "Region": "ASI",
+    "Dumpling": "Boraki",
+    "Info": "Armenische Teigtasche",
+    "popupContent": "Boraki ist eine Teigtasche aus Armenien. In der Sprache des Landes wird die Teigtasche \u0539\u0561\u0569\u0561\u0580 \u0562\u0578\u0580\u0561\u056f\u056b genannt.\nDie Teigtasche wird dampfgegart  / gebraten."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.61,
+     40.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Aserbaidschan",
+    "Region": "ASI",
+    "Dumpling": "Shekerbura ",
+    "Info": "Aserbaidschan S\u00fc\u00dfsgeb\u00e4ck",
+    "popupContent": "Shekerbura  ist eine Teigtasche aus Aserbaidschan. In der Sprache des Landes wird die Teigtasche \u015f\u0259k\u0259rbura genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     49.56,
+     40.29
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Aserbaidschan",
+    "Region": "ASI",
+    "Dumpling": "Qutab ",
+    "Info": "Traditionelle Aserbaidschanische Teigtasche",
+    "popupContent": "Qutab  ist eine Teigtasche aus Aserbaidschan. In der Sprache des Landes wird die Teigtasche Qutab genannt.\nDie Teigtasche wird gebraten ."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     49.86,
+     40.29
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "\u00c4thiopien",
+    "Region": "AFR",
+    "Dumpling": "\u00c4thiopische Sambusa",
+    "Info": "\u00c4thiopische version der Samosa",
+    "popupContent": "\u00c4thiopische Sambusa ist eine Teigtasche aus \u00c4thiopien. In der Sprache des Landes wird die Teigtasche \u1233\u121d\u1261\u1233 genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.42,
+     9.02
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Australien",
+    "Region": "AOA",
+    "Dumpling": "Australische Meat pies",
+    "Info": "Meat Pie nach australischer Art",
+    "popupContent": "Australische Meat pies ist eine Teigtasche aus Australien. In der Sprache des Landes wird die Teigtasche Meat Pies genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.08,
+     -35.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Australien",
+    "Region": "AOA",
+    "Dumpling": "Dimmies_Chiko Roll",
+    "Info": "Australische Wersion einer Fr\u00fchlingsrolle",
+    "popupContent": "Dimmies_Chiko Roll ist eine Teigtasche aus Australien. In der Sprache des Landes wird die Teigtasche Chiko Roll genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.38,
+     -35.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Bahamas",
+    "Region": "AME",
+    "Dumpling": "Conch fritters",
+    "Info": "Fastfood von den Bahamas",
+    "popupContent": "Conch fritters ist eine Teigtasche aus Bahamas. In der Sprache des Landes wird die Teigtasche Conch fritters genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.2,
+     25.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Bahrain",
+    "Region": "ASI",
+    "Dumpling": "Samboosa ",
+    "Info": "Samosa aus Bahrain",
+    "popupContent": "Samboosa  ist eine Teigtasche aus Bahrain. In der Sprache des Landes wird die Teigtasche \u0633\u0645\u0628\u0648\u0633\u0643 genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     50.3,
+     26.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Bangladesch",
+    "Region": "ASI",
+    "Dumpling": "Fuchka ",
+    "Info": "Bangladesch Version eines Typisch Indischen STreetfood",
+    "popupContent": "Fuchka  ist eine Teigtasche aus Bangladesch. In der Sprache des Landes wird die Teigtasche \u09ab\u09c1\u099a\u0995\u09be genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.26,
+     23.43
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Barbados",
+    "Region": "AME",
+    "Dumpling": "Bajan Coconut Turnovers",
+    "Info": "S\u00fc\u00dfspeise aus Barbados",
+    "popupContent": "Bajan Coconut Turnovers ist eine Teigtasche aus Barbados. In der Sprache des Landes wird die Teigtasche Bajan Coconut Turnovers genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.3,
+     13.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Barbados",
+    "Region": "AME",
+    "Dumpling": "Conch fritters",
+    "Info": "Ebenfalls auf Barbados beliebt_ so wie in der ganzen Karibik",
+    "popupContent": "Conch fritters ist eine Teigtasche aus Barbados. In der Sprache des Landes wird die Teigtasche Conch fritters genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.33,
+     13.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Belize",
+    "Region": "AME",
+    "Dumpling": "Chaya Empanadas",
+    "Info": "Vegetarische variante der Empanada",
+    "popupContent": "Chaya Empanadas ist eine Teigtasche aus Belize. In der Sprache des Landes wird die Teigtasche Empanada de chaya genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.3,
+     17.18
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Benin",
+    "Region": "AFR",
+    "Dumpling": "P\u00e2t\u00e9 aus Benin",
+    "Info": "fritierte Teigtasche aus Afrika",
+    "popupContent": "P\u00e2t\u00e9 aus Benin ist eine Teigtasche aus Benin. In der Sprache des Landes wird die Teigtasche P\u00e2t\u00e9 b\u00e9ninois genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.42,
+     6.23
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Bhutan",
+    "Region": "ASI",
+    "Dumpling": "Momos aus Buthan",
+    "Info": "Bhutanische version der Tibetischen Momos",
+    "popupContent": "Momos aus Buthan ist eine Teigtasche aus Bhutan. In der Sprache des Landes wird die Teigtasche \u092e:\u092e:_ \u0f58\u0f7c\u0f42\u0f0b\u0f58\u0f7c\u0f42\u0f0b genannt.\nDie Teigtasche wird dampfgegart ."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     89.45,
+     27.31
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Bolivien",
+    "Region": "AME",
+    "Dumpling": "Salte\u00f1as",
+    "Info": "Bolivische version der Empanada",
+    "popupContent": "Salte\u00f1as ist eine Teigtasche aus Bolivien. In der Sprache des Landes wird die Teigtasche Salte\u00f1as genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.1,
+     -16.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Bosnien und Herzegowina",
+    "Region": "EUR",
+    "Dumpling": "Klepe /  Kulake ",
+    "Info": "Teigtasche aus Bosnien",
+    "popupContent": "Klepe /  Kulake  ist eine Teigtasche aus Bosnien und Herzegowina. In der Sprache des Landes wird die Teigtasche Klepe  genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.26,
+     43.52
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Botsuana",
+    "Region": "AFR",
+    "Dumpling": "Sambusak",
+    "Info": "Botswanische version des Samosa",
+    "popupContent": "Sambusak ist eine Teigtasche aus Botsuana. In der Sprache des Landes wird die Teigtasche Samoosas genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.57,
+     -24.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Brasilien",
+    "Region": "AME",
+    "Dumpling": "Coxinha",
+    "Info": "Brasilianisches Fastfood",
+    "popupContent": "Coxinha ist eine Teigtasche aus Brasilien. In der Sprache des Landes wird die Teigtasche coxinha do Brasil genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -47.55,
+     -15.47
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Bulgarien",
+    "Region": "EUR",
+    "Dumpling": "Rogowatschki",
+    "Info": "Bulgarische Teigtasche mit K\u00e4sef\u00fcllung",
+    "popupContent": "Rogowatschki ist eine Teigtasche aus Bulgarien. In der Sprache des Landes wird die Teigtasche P\u043e\u0433\u043e\u0432\u0430\u0447\u043a\u0438 genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.2,
+     42.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Burundi",
+    "Region": "AFR",
+    "Dumpling": "Sambusak",
+    "Info": "Samosa aus Burundi",
+    "popupContent": "Sambusak ist eine Teigtasche aus Burundi. In der Sprache des Landes wird die Teigtasche Samoza genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     29.18,
+     -3.16
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Chile",
+    "Region": "AME",
+    "Dumpling": "Empanadas",
+    "Info": "Empanada aus Chile",
+    "popupContent": "Empanadas ist eine Teigtasche aus Chile. In der Sprache des Landes wird die Teigtasche Empanadas chilenas genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.4,
+     -33.24
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "China",
+    "Region": "ASI",
+    "Dumpling": "Fr\u00fchlingsrolle",
+    "Info": "Chinesiche Fr\u00fch\u00f6ingsrolle",
+    "popupContent": "Fr\u00fchlingsrolle ist eine Teigtasche aus China. In der Sprache des Landes wird die Teigtasche \u6625\u6372 genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.2,
+     39.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "China",
+    "Region": "ASI",
+    "Dumpling": "Lotussamenbr\u00f6tchen",
+    "Info": "Chinesische Teigtasche aus der Kategorie Baozi",
+    "popupContent": "Lotussamenbr\u00f6tchen ist eine Teigtasche aus China. In der Sprache des Landes wird die Teigtasche \u84ee\u84c9\u5305 genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.32,
+     39.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "China",
+    "Region": "ASI",
+    "Dumpling": "Xiaolongbao",
+    "Info": "Chinesiche Teigtasche aus der Kategorie Guantangbao aus der Kategoria Baozi",
+    "popupContent": "Xiaolongbao ist eine Teigtasche aus China. In der Sprache des Landes wird die Teigtasche \u5c0f\u7c60\u5305 genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.62,
+     39.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "China",
+    "Region": "ASI",
+    "Dumpling": "Dousha Dabao",
+    "Info": "Chinesischer s\u00fc\u00dfer Baozi",
+    "popupContent": "Dousha Dabao ist eine Teigtasche aus China. In der Sprache des Landes wird die Teigtasche \u8c46\u6c99\u5927\u5305 genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.92,
+     39.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "China",
+    "Region": "ASI",
+    "Dumpling": "Chashaobao",
+    "Info": "Chinesiache herzhafte Baozi",
+    "popupContent": "Chashaobao ist eine Teigtasche aus China. In der Sprache des Landes wird die Teigtasche \u53c9\u71d2\u5305 genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.2,
+     39.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "China",
+    "Region": "ASI",
+    "Dumpling": "Jiaozi",
+    "Info": "Chinesiche Teigtasche",
+    "popupContent": "Jiaozi ist eine Teigtasche aus China. In der Sprache des Landes wird die Teigtasche \u9903\u5b50 genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.2,
+     38.85
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "China",
+    "Region": "ASI",
+    "Dumpling": "Shuijing Xiajiao",
+    "Info": "Chinesiche Teigtasche mit Garnelenf\u00fcllung",
+    "popupContent": "Shuijing Xiajiao ist eine Teigtasche aus China. In der Sprache des Landes wird die Teigtasche \u6c34\u6676\u8766\u9903 genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.2,
+     38.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "China",
+    "Region": "ASI",
+    "Dumpling": "Ganzheng Shaomai",
+    "Info": "Chinesiche Teigtasche",
+    "popupContent": "Ganzheng Shaomai ist eine Teigtasche aus China. In der Sprache des Landes wird die Teigtasche \u4e7e\u84b8\u71d2\u8ce3 genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.2,
+     40.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "China",
+    "Region": "ASI",
+    "Dumpling": "Wan Tan",
+    "Info": "Chinesiche Teigtasche",
+    "popupContent": "Wan Tan ist eine Teigtasche aus China. In der Sprache des Landes wird die Teigtasche \u991b\u98e9 genannt.\nDie Teigtasche wird dampfgegart / gekocht / fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.2,
+     39.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "China",
+    "Region": "ASI",
+    "Dumpling": "Taro Dumpling",
+    "Info": "Chinesicher Taro Teigteilchen",
+    "popupContent": "Taro Dumpling ist eine Teigtasche aus China. In der Sprache des Landes wird die Teigtasche \u828b\u982d\u89d2 genannt.\nDie Teigtasche wird fitiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.32,
+     39.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Costa Rica",
+    "Region": "AME",
+    "Dumpling": "Empanada",
+    "Info": "Empanadas aus costa rica",
+    "popupContent": "Empanada ist eine Teigtasche aus Costa Rica. In der Sprache des Landes wird die Teigtasche empanadas genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.02,
+     9.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "C\u00f4te d'Ivoire",
+    "Region": "AFR",
+    "Dumpling": "Maniok-Kl\u00f6\u00dfe",
+    "Info": "Gef\u00fclltes Teiggericht der Elfenbeink\u00fcste",
+    "popupContent": "Maniok-Kl\u00f6\u00dfe ist eine Teigtasche aus C\u00f4te d'Ivoire. In der Sprache des Landes wird die Teigtasche Boulettes de Manioc genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.17,
+     6.49
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "D\u00e4nemark",
+    "Region": "EUR",
+    "Dumpling": "Apfelscheiben",
+    "Info": "Wird zu Weihnachten gegessen",
+    "popupContent": "Apfelscheiben ist eine Teigtasche aus D\u00e4nemark. In der Sprache des Landes wird die Teigtasche \u00c6bleskiver genannt.\nDie Teigtasche wird gebraten ."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.34,
+     55.41
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "D\u00e4nemark",
+    "Region": "EUR",
+    "Dumpling": "Wienerbr\u00f6d",
+    "Info": "Zu Kaffe und Kuchen",
+    "popupContent": "Wienerbr\u00f6d ist eine Teigtasche aus D\u00e4nemark. In der Sprache des Landes wird die Teigtasche Wienerbr\u00f8d genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.64,
+     55.41
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Deutschland",
+    "Region": "EUR",
+    "Dumpling": "Maultaschen",
+    "Info": "Deutsche Teigtasche",
+    "popupContent": "Maultaschen ist eine Teigtasche aus Deutschland. In der Sprache des Landes wird die Teigtasche Maultaschen genannt.\nDie Teigtasche wird gekocht / gebraten."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.25,
+     52.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Deutschland",
+    "Region": "EUR",
+    "Dumpling": "G'fillte Knepp",
+    "Info": "Deutsche Beilage",
+    "popupContent": "G'fillte Knepp ist eine Teigtasche aus Deutschland. In der Sprache des Landes wird die Teigtasche gef\u00fcllte Kl\u00f6\u00dfe aus der Pfalz genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.55,
+     52.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Deutschland",
+    "Region": "EUR",
+    "Dumpling": "Th\u00fcringer Kl\u00f6\u00dfe",
+    "Info": "Deutsche BEilage aus Th\u00fcringen",
+    "popupContent": "Th\u00fcringer Kl\u00f6\u00dfe ist eine Teigtasche aus Deutschland. In der Sprache des Landes wird die Teigtasche Th\u00fcringer Kl\u00f6\u00dfe genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.85,
+     52.33
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Dominikanische Republik",
+    "Region": "AME",
+    "Dumpling": "Pastelitos",
+    "Info": "Teigtasche aus der Dominikanischen Republik",
+    "popupContent": "Pastelitos ist eine Teigtasche aus Dominikanische Republik. In der Sprache des Landes wird die Teigtasche Pastelitos genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.59,
+     18.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Dschibuti",
+    "Region": "AFR",
+    "Dumpling": "Sambusa mit Lamm",
+    "Info": "Dschibuti Samosa",
+    "popupContent": "Sambusa mit Lamm ist eine Teigtasche aus Dschibuti. In der Sprache des Landes wird die Teigtasche Sambusa genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     42.2,
+     11.08
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Ecuador",
+    "Region": "AME",
+    "Dumpling": "Empanadas de morocho",
+    "Info": "Empanadas aus Ecuador",
+    "popupContent": "Empanadas de morocho ist eine Teigtasche aus Ecuador. In der Sprache des Landes wird die Teigtasche Empanadas de morocho genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.35,
+     -0.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "El Salvador",
+    "Region": "AME",
+    "Dumpling": "Pupusas",
+    "Info": "Teigtaschen aus El Salvador",
+    "popupContent": "Pupusas ist eine Teigtasche aus El Salvador. In der Sprache des Landes wird die Teigtasche Pupusas genannt.\nDie Teigtasche wird gebraten ."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.1,
+     13.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Eritrea",
+    "Region": "AFR",
+    "Dumpling": "Samosas Eretrea",
+    "Info": "Samosas aus Eretrea",
+    "popupContent": "Samosas Eretrea ist eine Teigtasche aus Eritrea. In der Sprache des Landes wird die Teigtasche \u1233\u121d\u1261\u1233 genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     38.55,
+     15.19
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Estland",
+    "Region": "EUR",
+    "Dumpling": "Pirukad",
+    "Info": "Estnische Teigtasche",
+    "popupContent": "Pirukad ist eine Teigtasche aus Estland. In der Sprache des Landes wird die Teigtasche Pirukad genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.48,
+     59.22
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Fidschi",
+    "Region": "AOA",
+    "Dumpling": "Fijian steamed dumplings",
+    "Info": "Spezialit\u00e4t aus Fiji",
+    "popupContent": "Fijian steamed dumplings ist eine Teigtasche aus Fidschi. In der Sprache des Landes wird die Teigtasche Fijian steamed dumplings genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     178.3,
+     -18.06
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Finnland",
+    "Region": "EUR",
+    "Dumpling": "Karelische Piroggen",
+    "Info": "Finnische Version der Pirogge",
+    "popupContent": "Karelische Piroggen ist eine Teigtasche aus Finnland. In der Sprache des Landes wird die Teigtasche Karjalan pierogies genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.03,
+     60.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Finnland",
+    "Region": "EUR",
+    "Dumpling": "Kalakukko",
+    "Info": "Finische Teigtasche ",
+    "popupContent": "Kalakukko ist eine Teigtasche aus Finnland. In der Sprache des Landes wird die Teigtasche Kalakukko genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.33,
+     60.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Finnland",
+    "Region": "EUR",
+    "Dumpling": "Lihapiirakka",
+    "Info": "Finnische Fastfood",
+    "popupContent": "Lihapiirakka ist eine Teigtasche aus Finnland. In der Sprache des Landes wird die Teigtasche Lihapiirakka genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.03,
+     60.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Frankreich",
+    "Region": "EUR",
+    "Dumpling": "Tourtons",
+    "Info": "Franz\u00f6sische vegetarisch Teigtasche",
+    "popupContent": "Tourtons ist eine Teigtasche aus Frankreich. In der Sprache des Landes wird die Teigtasche Tourtons genannt.\nDie Teigtasche wird gebraten / fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2,
+     48.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Frankreich",
+    "Region": "EUR",
+    "Dumpling": "Aum\u00f4ni\u00e8re",
+    "Info": "Franz\u00f6sische s\u00fc\u00dfe Teigtaschen",
+    "popupContent": "Aum\u00f4ni\u00e8re ist eine Teigtasche aus Frankreich. In der Sprache des Landes wird die Teigtasche Aum\u00f4ni\u00e8re genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.5,
+     48.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Gambia",
+    "Region": "AFR",
+    "Dumpling": "Fish Pies",
+    "Info": "Thunfischteigtasche aus Gambia",
+    "popupContent": "Fish Pies ist eine Teigtasche aus Gambia. In der Sprache des Landes wird die Teigtasche Fish Pies genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.4,
+     13.28
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Georgien",
+    "Region": "EUR",
+    "Dumpling": "Khinkali",
+    "Info": "Traditionell Georgische Teigtasche",
+    "popupContent": "Khinkali ist eine Teigtasche aus Georgien. In der Sprache des Landes wird die Teigtasche \u10ee\u10d8\u10dc\u10d9\u10d0\u10da\u10d8 genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.5,
+     41.43
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Georgien",
+    "Region": "EUR",
+    "Dumpling": "Lobiani",
+    "Info": "Traditionelles gef\u00fclltes Brot",
+    "popupContent": "Lobiani ist eine Teigtasche aus Georgien. In der Sprache des Landes wird die Teigtasche \u10da\u10dd\u10d1\u10d8\u10d0\u10dc\u10d8 genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.5,
+     41.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Georgien",
+    "Region": "EUR",
+    "Dumpling": "megruli khachapuri",
+    "Info": "Traditionelles georgisches Brotgericht",
+    "popupContent": "megruli khachapuri ist eine Teigtasche aus Georgien. In der Sprache des Landes wird die Teigtasche \u10db\u10d4\u10d2\u10e0\u10e3\u10da\u10d8 \u10ee\u10d0\u10ed\u10d0\u10de\u10e3\u10e0\u10d8 genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.8,
+     41.43
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Georgien",
+    "Region": "EUR",
+    "Dumpling": "Kubdari",
+    "Info": "Traditionell mit felisch gef\u00fclltes Brot",
+    "popupContent": "Kubdari ist eine Teigtasche aus Georgien. In der Sprache des Landes wird die Teigtasche \u10d9\u10e3\u10d1\u10d3\u10d0\u10e0\u10d8 genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.2,
+     41.43
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Ghana",
+    "Region": "AFR",
+    "Dumpling": "Kenkey",
+    "Info": "Klo\u00df aus Ghana",
+    "popupContent": "Kenkey ist eine Teigtasche aus Ghana. In der Sprache des Landes wird die Teigtasche k\u0254mi genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.06,
+     5.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Grenada",
+    "Region": "AME",
+    "Dumpling": "Coconut Tart",
+    "Info": "Nachtisch aus Grenada",
+    "popupContent": "Coconut Tart ist eine Teigtasche aus Grenada. In der Sprache des Landes wird die Teigtasche Coconut Tart genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.75,
+     12.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Griechenland",
+    "Region": "EUR",
+    "Dumpling": "Schafsk\u00e4se-Teigtaschen",
+    "Info": "Teigtasche aus Griechenland",
+    "popupContent": "Schafsk\u00e4se-Teigtaschen ist eine Teigtasche aus Griechenland. In der Sprache des Landes wird die Teigtasche \u03c4\u03c5\u03c1\u03bf\u03c0\u03b9\u03c4\u03b1\u03ba\u03b9\u03b1 \u03ba\u03bf\u03c5\u03c1\u03bf\u03c5 genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.46,
+     37.58
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Guatemala",
+    "Region": "AME",
+    "Dumpling": "Tamales colorados",
+    "Info": "Tamales aaus Guatemala",
+    "popupContent": "Tamales colorados ist eine Teigtasche aus Guatemala. In der Sprache des Landes wird die Teigtasche tamales colorados guatemaltecos genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.22,
+     14.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Guinea",
+    "Region": "AFR",
+    "Dumpling": "Samosa Guinea",
+    "Info": "Samosa aus Guinea",
+    "popupContent": "Samosa Guinea ist eine Teigtasche aus Guinea. In der Sprache des Landes wird die Teigtasche Samosas genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -13.49,
+     9.29
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Guyana",
+    "Region": "AME",
+    "Dumpling": "Guyanese Beef Patties",
+    "Info": "Leckerer Party-Snack aus Guyana",
+    "popupContent": "Guyanese Beef Patties ist eine Teigtasche aus Guyana. In der Sprache des Landes wird die Teigtasche Guyanese Beef Patties genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.12,
+     6.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Guyana",
+    "Region": "AME",
+    "Dumpling": "Guyanese Goja",
+    "Info": "S\u00fc\u00dfspeise aus Guyana",
+    "popupContent": "Guyanese Goja ist eine Teigtasche aus Guyana. In der Sprache des Landes wird die Teigtasche Guyanese Goja genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.12,
+     6.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Haiti",
+    "Region": "AME",
+    "Dumpling": "Haitian patty",
+    "Info": "Bl\u00e4terteiggeb\u00e4ck aus Haiti",
+    "popupContent": "Haitian patty ist eine Teigtasche aus Haiti. In der Sprache des Landes wird die Teigtasche pate ayisyen genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.2,
+     18.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Honduras",
+    "Region": "AME",
+    "Dumpling": "Hundekuchen",
+    "Info": "Fritierte Maiskuchen Honduras",
+    "popupContent": "Hundekuchen ist eine Teigtasche aus Honduras. In der Sprache des Landes wird die Teigtasche pastelitos de perro genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.14,
+     14.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Honduras",
+    "Region": "AME",
+    "Dumpling": "Pupusas aus Honduras",
+    "Info": "Honduras version der Pupusa",
+    "popupContent": "Pupusas aus Honduras ist eine Teigtasche aus Honduras. In der Sprache des Landes wird die Teigtasche Pupusas Honduras genannt.\nDie Teigtasche wird gebraten."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.44,
+     14.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Indien",
+    "Region": "ASI",
+    "Dumpling": "Kozhukattai / Kolukattai",
+    "Info": "S\u00fc\u00dfe Teigtasche aus Indien",
+    "popupContent": "Kozhukattai / Kolukattai ist eine Teigtasche aus Indien. In der Sprache des Landes wird die Teigtasche \u0b95\u0bca\u0bb4\u0bc1\u0b95\u0b9f\u0bcd\u0b9f\u0bc8 genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.13,
+     28.37
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Indien",
+    "Region": "ASI",
+    "Dumpling": "Gujiya",
+    "Info": "S\u00fc\u00dfgeb\u00e4ck aus Indien",
+    "popupContent": "Gujiya ist eine Teigtasche aus Indien. In der Sprache des Landes wird die Teigtasche \u0917\u0941\u091d\u093f\u092f\u093e genannt.\nDie Teigtasche wird gebacken / fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.43,
+     28.37
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Indien",
+    "Region": "ASI",
+    "Dumpling": "Punjabi Potato Samosa",
+    "Info": "Klassisches indische Streetfood",
+    "popupContent": "Punjabi Potato Samosa ist eine Teigtasche aus Indien. In der Sprache des Landes wird die Teigtasche \u092a\u0902\u091c\u093e\u092c\u0940 \u0906\u0932\u0942 \u0938\u092e\u094b\u0938\u093e genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.13,
+     28.87
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Indonesien",
+    "Region": "ASI",
+    "Dumpling": "Bakpao",
+    "Info": "Indosnesischer STreetfood",
+    "popupContent": "Bakpao ist eine Teigtasche aus Indonesien. In der Sprache des Landes wird die Teigtasche Bakpao genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.49,
+     -6.09
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Indonesien",
+    "Region": "ASI",
+    "Dumpling": "Lumpia",
+    "Info": "Indonesische Fr\u00fchlingsrolle",
+    "popupContent": "Lumpia ist eine Teigtasche aus Indonesien. In der Sprache des Landes wird die Teigtasche Lumpia genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.49,
+     -6.39
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Indonesien",
+    "Region": "ASI",
+    "Dumpling": "Lemper ayam",
+    "Info": "Indonesischer Snack",
+    "popupContent": "Lemper ayam ist eine Teigtasche aus Indonesien. In der Sprache des Landes wird die Teigtasche Lemper ayam genannt.\nDie Teigtasche wird ged\u00e4pft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.49,
+     -6.69
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Irak",
+    "Region": "ASI",
+    "Dumpling": "Kubbeh",
+    "Info": "Teil eines irakischen Suppengerichtes",
+    "popupContent": "Kubbeh ist eine Teigtasche aus Irak. In der Sprache des Landes wird die Teigtasche Kubbeh / \u0643\u0628\u0629 genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     44.3,
+     33.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Iran",
+    "Region": "ASI",
+    "Dumpling": "Persische Manti",
+    "Info": "Persiche version der Mantu",
+    "popupContent": "Persische Manti ist eine Teigtasche aus Iran. In der Sprache des Landes wird die Teigtasche \u0645\u0627\u0646\u062a\u06cc genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     51.3,
+     35.44
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Irland",
+    "Region": "EUR",
+    "Dumpling": "Jambons",
+    "Info": "Irisches Geb\u00e4ck",
+    "popupContent": "Jambons ist eine Teigtasche aus Irland. In der Sprache des Landes wird die Teigtasche siamban genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.15,
+     53.21
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Israel",
+    "Region": "ASI",
+    "Dumpling": "Kreplach",
+    "Info": "Israelische Teigtasche",
+    "popupContent": "Kreplach ist eine Teigtasche aus Israel. In der Sprache des Landes wird die Teigtasche \u05e7\u05e8\u05e2\u05e4\u05bc\u05dc\u05e2\u05da genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -35.1,
+     31.71
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Italien",
+    "Region": "EUR",
+    "Dumpling": "Calzone",
+    "Info": "Italienische Pizzarvariation",
+    "popupContent": "Calzone ist eine Teigtasche aus Italien. In der Sprache des Landes wird die Teigtasche Calzone genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.29,
+     41.54
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Italien",
+    "Region": "EUR",
+    "Dumpling": "Ravioli",
+    "Info": "Speziell gefaltete Nudel aus Italien",
+    "popupContent": "Ravioli ist eine Teigtasche aus Italien. In der Sprache des Landes wird die Teigtasche Ravioli genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.59,
+     41.54
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Italien",
+    "Region": "EUR",
+    "Dumpling": "Tortellini",
+    "Info": "Nudeltaschen aus Italien",
+    "popupContent": "Tortellini ist eine Teigtasche aus Italien. In der Sprache des Landes wird die Teigtasche Tortellini genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.29,
+     41.84
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Italien",
+    "Region": "EUR",
+    "Dumpling": "Panzerotti",
+    "Info": "Fritierte Calzone in Miniform",
+    "popupContent": "Panzerotti ist eine Teigtasche aus Italien. In der Sprache des Landes wird die Teigtasche Panzerotto genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     12.89,
+     41.54
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Jamaika",
+    "Region": "AME",
+    "Dumpling": "Jamaikanische Patties",
+    "Info": "Pasteten\u00e4hnliche Teigtasche aus Jamaika",
+    "popupContent": "Jamaikanische Patties ist eine Teigtasche aus Jamaika. In der Sprache des Landes wird die Teigtasche Jamaican Patty genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.5,
+     18.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Japan",
+    "Region": "ASI",
+    "Dumpling": "Gyoza",
+    "Info": "Die wohl bekantesteTeigtasche aus Japan",
+    "popupContent": "Gyoza ist eine Teigtasche aus Japan. In der Sprache des Landes wird die Teigtasche \u9903\u5b50 genannt.\nDie Teigtasche wird gebraten und dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.65,
+     35.67
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Jordanien",
+    "Region": "ASI",
+    "Dumpling": "Shishbarak / Joshpara",
+    "Info": "Jordanische version der im arabischen Raum verbreiten Teigtasche",
+    "popupContent": "Shishbarak / Joshpara ist eine Teigtasche aus Jordanien. In der Sprache des Landes wird die Teigtasche \u0634\u0634\u0628\u0631\u0643 genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.52,
+     31.57
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Kambodscha",
+    "Region": "ASI",
+    "Dumpling": "Num ansom",
+    "Info": "Kamdodschanischer Snack",
+    "popupContent": "Num ansom ist eine Teigtasche aus Kambodscha. In der Sprache des Landes wird die Teigtasche \u1793\u17c6\u17a2\u1793\u17d2\u179f\u1798 genannt.\nDie Teigtasche wird dampfgegart / gegrillt / fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     104.55,
+     11.33
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Kanada",
+    "Region": "AME",
+    "Dumpling": "Tourti\u00e8re",
+    "Info": "Canadische version einer franz\u00f6sischen Pastete aus Quebec",
+    "popupContent": "Tourti\u00e8re ist eine Teigtasche aus Kanada. In der Sprache des Landes wird die Teigtasche Tourti\u00e8re genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.42,
+     45.27
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Kap Verde",
+    "Region": "AFR",
+    "Dumpling": "Chamu\u00e7as",
+    "Info": "Kap Verde version der Samosa",
+    "popupContent": "Chamu\u00e7as ist eine Teigtasche aus Kap Verde. In der Sprache des Landes wird die Teigtasche Chamu\u00e7as genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -23.34,
+     15.02
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Kasachstan",
+    "Region": "ASI",
+    "Dumpling": "Kasachische M\u00e4nti",
+    "Info": "Kasachische version der Manti",
+    "popupContent": "Kasachische M\u00e4nti ist eine Teigtasche aus Kasachstan. In der Sprache des Landes wird die Teigtasche \u041c\u0430\u043d\u0442\u044b genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     71.3,
+     51.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Kirgisistan",
+    "Region": "ASI",
+    "Dumpling": "Manty",
+    "Info": "Kirgisische Version der Manti",
+    "popupContent": "Manty ist eine Teigtasche aus Kirgisistan. In der Sprache des Landes wird die Teigtasche \u041c\u0430\u043d\u0442\u044b genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     74.46,
+     42.54
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Kolumbien",
+    "Region": "AME",
+    "Dumpling": "Arepas de huevo",
+    "Info": "Kolumbianische Teigtasche",
+    "popupContent": "Arepas de huevo ist eine Teigtasche aus Kolumbien. In der Sprache des Landes wird die Teigtasche Arepas de huevo genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.0,
+     4.34
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Korea Republik",
+    "Region": "ASI",
+    "Dumpling": "Mandu",
+    "Info": "Koreanischer Dumpling",
+    "popupContent": "Mandu ist eine Teigtasche aus Korea Republik. In der Sprache des Landes wird die Teigtasche \ub9cc\ub450 genannt.\nDie Teigtasche wird dampfgegart."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     126.58,
+     37.31
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Kroatien",
+    "Region": "EUR",
+    "Dumpling": "Strukli",
+    "Info": "na",
+    "popupContent": "Strukli ist eine Teigtasche aus Kroatien. In der Sprache des Landes wird die Teigtasche Zagorski \u0161trukli genannt.\nDie Teigtasche wird gekocht_gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.58,
+     45.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Kuba",
+    "Region": "AME",
+    "Dumpling": "Kubanische Beef Buns",
+    "Info": "na",
+    "popupContent": "Kubanische Beef Buns ist eine Teigtasche aus Kuba. In der Sprache des Landes wird die Teigtasche Cuban Beef Buns genannt.\nDie Teigtasche wird gedampft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.22,
+     23.08
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Kuwait",
+    "Region": "ASI",
+    "Dumpling": "Mutabbaq",
+    "Info": "na",
+    "popupContent": "Mutabbaq ist eine Teigtasche aus Kuwait. In der Sprache des Landes wird die Teigtasche \u0645\u0637\u0628\u0642 genannt.\nDie Teigtasche wird gebraten."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     48.0,
+     29.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Laos",
+    "Region": "ASI",
+    "Dumpling": "Galabao",
+    "Info": "na",
+    "popupContent": "Galabao ist eine Teigtasche aus Laos. In der Sprache des Landes wird die Teigtasche \u0e81\u0eb2\u0ea5\u0eb2\u0e9a\u0eb2\u0ea7 genannt.\nDie Teigtasche wird ged\u00e4pft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.36,
+     17.58
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Lettland",
+    "Region": "EUR",
+    "Dumpling": "Bacon Dumplings",
+    "Info": "na",
+    "popupContent": "Bacon Dumplings ist eine Teigtasche aus Lettland. In der Sprache des Landes wird die Teigtasche Spe\u0137a p\u012br\u0101gi  genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     24.08,
+     56.53
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Libanon",
+    "Region": "ASI",
+    "Dumpling": "Shish Barak aus dem Libanon",
+    "Info": "na",
+    "popupContent": "Shish Barak aus dem Libanon ist eine Teigtasche aus Libanon. In der Sprache des Landes wird die Teigtasche \u0634\u064f\u0634\u0652\u0628\u064e\u0631\u064e\u0643 genannt.\nDie Teigtasche wird gebacken_ gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.31,
+     33.53
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Liberia",
+    "Region": "AFR",
+    "Dumpling": "Meat pies",
+    "Info": "na",
+    "popupContent": "Meat pies ist eine Teigtasche aus Liberia. In der Sprache des Landes wird die Teigtasche Liberian Meat Pies genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -10.47,
+     6.18
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Libyen",
+    "Region": "AFR",
+    "Dumpling": "Bazin",
+    "Info": "na",
+    "popupContent": "Bazin ist eine Teigtasche aus Libyen. In der Sprache des Landes wird die Teigtasche \u0628\u0627\u0632\u064a\u0646 genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     13.07,
+     32.49
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Litauen",
+    "Region": "EUR",
+    "Dumpling": "Kibinai",
+    "Info": "na",
+    "popupContent": "Kibinai ist eine Teigtasche aus Litauen. In der Sprache des Landes wird die Teigtasche Q\u0131b\u0131nlar genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     25.19,
+     54.38
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Luxemburg",
+    "Region": "EUR",
+    "Dumpling": "Kniddelen",
+    "Info": "na",
+    "popupContent": "Kniddelen ist eine Teigtasche aus Luxemburg. In der Sprache des Landes wird die Teigtasche L\u00ebtzebuerger Kniddelen genannt.\nDie Teigtasche wird gebraten."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.09,
+     49.37
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Madagaskar",
+    "Region": "AFR",
+    "Dumpling": "Coconut and cassava dumplings",
+    "Info": "na",
+    "popupContent": "Coconut and cassava dumplings ist eine Teigtasche aus Madagaskar. In der Sprache des Landes wird die Teigtasche Coconut and cassava dumplings genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     47.31,
+     -18.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Malawi",
+    "Region": "AFR",
+    "Dumpling": "Champunga Mkati",
+    "Info": "na",
+    "popupContent": "Champunga Mkati ist eine Teigtasche aus Malawi. In der Sprache des Landes wird die Teigtasche Champunga Mkati genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.48,
+     -14.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Malaysia",
+    "Region": "ASI",
+    "Dumpling": "Bak Chang",
+    "Info": "na",
+    "popupContent": "Bak Chang ist eine Teigtasche aus Malaysia. In der Sprache des Landes wird die Teigtasche \u8089\u7cbd genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.41,
+     3.09
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Malediven",
+    "Region": "ASI",
+    "Dumpling": "Gulha",
+    "Info": "na",
+    "popupContent": "Gulha ist eine Teigtasche aus Malediven. In der Sprache des Landes wird die Teigtasche \u078e\u07aa\u0785\u07a6 genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.28,
+     4.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Mali",
+    "Region": "AFR",
+    "Dumpling": "Sambusa",
+    "Info": "na",
+    "popupContent": "Sambusa ist eine Teigtasche aus Mali. In der Sprache des Landes wird die Teigtasche \u0633\u0645\u0628\u0648\u0633\u0643 genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.55,
+     12.34
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Malta",
+    "Region": "EUR",
+    "Dumpling": "Pastizzi",
+    "Info": "na",
+    "popupContent": "Pastizzi ist eine Teigtasche aus Malta. In der Sprache des Landes wird die Teigtasche Pastizzi genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.31,
+     35.54
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Marokko",
+    "Region": "AFR",
+    "Dumpling": "Kubbeh Patata",
+    "Info": "na",
+    "popupContent": "Kubbeh Patata ist eine Teigtasche aus Marokko. In der Sprache des Landes wird die Teigtasche \u0643\u0628\u0629 genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5,
+     34.02
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Marshallinseln",
+    "Region": "AOA",
+    "Dumpling": "Chukuchuk",
+    "Info": "na",
+    "popupContent": "Chukuchuk ist eine Teigtasche aus Marshallinseln. In der Sprache des Landes wird die Teigtasche Chukuchuk genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     171.22,
+     7.07
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Mauritius",
+    "Region": "AFR",
+    "Dumpling": "Boulette chouchou",
+    "Info": "na",
+    "popupContent": "Boulette chouchou ist eine Teigtasche aus Mauritius. In der Sprache des Landes wird die Teigtasche Niouk yen genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     57.5,
+     -20.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Mazedonien",
+    "Region": "EUR",
+    "Dumpling": "Plum Dumplings",
+    "Info": "na",
+    "popupContent": "Plum Dumplings ist eine Teigtasche aus Mazedonien. In der Sprache des Landes wird die Teigtasche Knedle sa \u0160ljivama genannt.\nDie Teigtasche wird gekocht_ frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.26,
+     42.01
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Mexiko",
+    "Region": "AME",
+    "Dumpling": "Empanadas vegan",
+    "Info": "na",
+    "popupContent": "Empanadas vegan ist eine Teigtasche aus Mexiko. In der Sprache des Landes wird die Teigtasche Empanadas genannt.\nDie Teigtasche wird gebacken_ frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.1,
+     19.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Moldau",
+    "Region": "EUR",
+    "Dumpling": "Potato Dumpling",
+    "Info": "na",
+    "popupContent": "Potato Dumpling ist eine Teigtasche aus Moldau. In der Sprache des Landes wird die Teigtasche Col\u021buna\u0219ii genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.5,
+     47.02
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Monaco",
+    "Region": "EUR",
+    "Dumpling": "Barbajuanes",
+    "Info": "na",
+    "popupContent": "Barbajuanes ist eine Teigtasche aus Monaco. In der Sprache des Landes wird die Teigtasche Barbajuanes genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.42,
+     43.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Mongolei",
+    "Region": "ASI",
+    "Dumpling": "Buuz",
+    "Info": "na",
+    "popupContent": "Buuz ist eine Teigtasche aus Mongolei. In der Sprache des Landes wird die Teigtasche \u0411\u0443\u0443\u0437 genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.55,
+     47.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Mongolei",
+    "Region": "ASI",
+    "Dumpling": "Khuushuur",
+    "Info": "na",
+    "popupContent": "Khuushuur ist eine Teigtasche aus Mongolei. In der Sprache des Landes wird die Teigtasche \u0445\u0443\u0443\u0448\u0443\u0443\u0440 genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     106.55,
+     47.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Montenegro",
+    "Region": "EUR",
+    "Dumpling": "Burek",
+    "Info": "na",
+    "popupContent": "Burek ist eine Teigtasche aus Montenegro. In der Sprache des Landes wird die Teigtasche Byrek genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.16,
+     42.26
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Mosambik",
+    "Region": "AFR",
+    "Dumpling": "Chamu\u00e7as",
+    "Info": "na",
+    "popupContent": "Chamu\u00e7as ist eine Teigtasche aus Mosambik. In der Sprache des Landes wird die Teigtasche Chamu\u00e7as genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.35,
+     -25.58
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Myanmar",
+    "Region": "ASI",
+    "Dumpling": "Mont phet htok ",
+    "Info": "na",
+    "popupContent": "Mont phet htok  ist eine Teigtasche aus Myanmar. In der Sprache des Landes wird die Teigtasche \u1019\u102f\u1014\u1037\u103a\u1016\u1000\u103a\u1011\u102f\u1015\u103a genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     96.2,
+     16.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Nepal",
+    "Region": "ASI",
+    "Dumpling": "Momos aus Tibet",
+    "Info": "na",
+    "popupContent": "Momos aus Tibet ist eine Teigtasche aus Nepal. In der Sprache des Landes wird die Teigtasche \u0f58\u0f7c\u0f42\u0f0b\u0f58\u0f7c\u0f42\u0f0b genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     85.2,
+     27.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Neuseeland",
+    "Region": "AOA",
+    "Dumpling": "Apfel Teigtaschen",
+    "Info": "na",
+    "popupContent": "Apfel Teigtaschen ist eine Teigtasche aus Neuseeland. In der Sprache des Landes wird die Teigtasche Baked apple dumplings genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     174.46,
+     -41.19
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Niederlande",
+    "Region": "EUR",
+    "Dumpling": "Bapao",
+    "Info": "na",
+    "popupContent": "Bapao ist eine Teigtasche aus Niederlande. In der Sprache des Landes wird die Teigtasche Broodje bapao genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.54,
+     52.23
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Niger",
+    "Region": "AFR",
+    "Dumpling": "Dodo Gizzard ",
+    "Info": "na",
+    "popupContent": "Dodo Gizzard  ist eine Teigtasche aus Niger. In der Sprache des Landes wird die Teigtasche Dodo Gizzard  genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.06,
+     13.27
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Nigeria",
+    "Region": "AFR",
+    "Dumpling": "Puff-Puff",
+    "Info": "na",
+    "popupContent": "Puff-Puff ist eine Teigtasche aus Nigeria. In der Sprache des Landes wird die Teigtasche Puff-Puff genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.32,
+     9.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Norwegen",
+    "Region": "EUR",
+    "Dumpling": "Kartoffel Klubb",
+    "Info": "na",
+    "popupContent": "Kartoffel Klubb ist eine Teigtasche aus Norwegen. In der Sprache des Landes wird die Teigtasche Klubb genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.45,
+     59.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Oman",
+    "Region": "ASI",
+    "Dumpling": "Omani spiced dumplings",
+    "Info": "na",
+    "popupContent": "Omani spiced dumplings ist eine Teigtasche aus Oman. In der Sprache des Landes wird die Teigtasche Qashad genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     58.36,
+     23.37
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "\u00d6sterreich",
+    "Region": "EUR",
+    "Dumpling": "K\u00e4rntner Teigtaschen",
+    "Info": "na",
+    "popupContent": "K\u00e4rntner Teigtaschen ist eine Teigtasche aus \u00d6sterreich. In der Sprache des Landes wird die Teigtasche K\u00e4rntner Kasnudel genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.22,
+     48.12
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Pakistan",
+    "Region": "ASI",
+    "Dumpling": "Dahi Baray",
+    "Info": "na",
+    "popupContent": "Dahi Baray ist eine Teigtasche aus Pakistan. In der Sprache des Landes wird die Teigtasche \u0926\u0939\u0940 \u0935\u0921\u0947 genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.1,
+     33.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Panama",
+    "Region": "AME",
+    "Dumpling": "Carima\u00f1olas",
+    "Info": "na",
+    "popupContent": "Carima\u00f1olas ist eine Teigtasche aus Panama. In der Sprache des Landes wird die Teigtasche Carima\u00f1olas genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.25,
+     9.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Papua-Neuguinea",
+    "Region": "AOA",
+    "Dumpling": "Saksak",
+    "Info": "na",
+    "popupContent": "Saksak ist eine Teigtasche aus Papua-Neuguinea. In der Sprache des Landes wird die Teigtasche Saksak genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.08,
+     -9.24
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Paraguay",
+    "Region": "AME",
+    "Dumpling": "Paraguayan Chicken and Dumpling Soup",
+    "Info": "na",
+    "popupContent": "Paraguayan Chicken and Dumpling Soup ist eine Teigtasche aus Paraguay. In der Sprache des Landes wird die Teigtasche Vori Vori de Pollo genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -57.3,
+     -25.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Peru",
+    "Region": "AME",
+    "Dumpling": "Papa Rellena",
+    "Info": "na",
+    "popupContent": "Papa Rellena ist eine Teigtasche aus Peru. In der Sprache des Landes wird die Teigtasche Papa Rellena genannt.\nDie Teigtasche wird gebraten."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.0,
+     -12.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Philippinen",
+    "Region": "ASI",
+    "Dumpling": "Siopao",
+    "Info": "na",
+    "popupContent": "Siopao ist eine Teigtasche aus Philippinen. In der Sprache des Landes wird die Teigtasche Siopao genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.03,
+     14.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Polen",
+    "Region": "EUR",
+    "Dumpling": "Piroggen",
+    "Info": "na",
+    "popupContent": "Piroggen ist eine Teigtasche aus Polen. In der Sprache des Landes wird die Teigtasche Pierogi genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     21.0,
+     52.13
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Portugal",
+    "Region": "EUR",
+    "Dumpling": "Frittierte Shirimp Dumplings",
+    "Info": "na",
+    "popupContent": "Frittierte Shirimp Dumplings ist eine Teigtasche aus Portugal. In der Sprache des Landes wird die Teigtasche Riss\u00f3is de Camar\u00e3o genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.1,
+     38.42
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Rum\u00e4nien",
+    "Region": "EUR",
+    "Dumpling": "Grie\u00dfnockelnsuppe",
+    "Info": "na",
+    "popupContent": "Grie\u00dfnockelnsuppe ist eine Teigtasche aus Rum\u00e4nien. In der Sprache des Landes wird die Teigtasche G\u0103lu\u0219te de gris genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     26.1,
+     44.27
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Russische F\u00f6deration",
+    "Region": "EUR",
+    "Dumpling": "Pelmeni",
+    "Info": "na",
+    "popupContent": "Pelmeni ist eine Teigtasche aus Russische F\u00f6deration. In der Sprache des Landes wird die Teigtasche \u043f\u0435\u043b\u044c\u043c\u0435\u043d\u0438 genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.35,
+     55.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Salomonen",
+    "Region": "AOA",
+    "Dumpling": "S\u00fc\u00dfe Kokosnussb\u00e4llchen",
+    "Info": "na",
+    "popupContent": "S\u00fc\u00dfe Kokosnussb\u00e4llchen ist eine Teigtasche aus Salomonen. In der Sprache des Landes wird die Teigtasche Sweet Coconut Dumplings genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     160.07,
+     -9.58
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Sambia",
+    "Region": "AFR",
+    "Dumpling": "Samosas Sambia",
+    "Info": "na",
+    "popupContent": "Samosas Sambia ist eine Teigtasche aus Sambia. In der Sprache des Landes wird die Teigtasche Samosas genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.27,
+     -15.28
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Samoa",
+    "Region": "AOA",
+    "Dumpling": "Kopai",
+    "Info": "na",
+    "popupContent": "Kopai ist eine Teigtasche aus Samoa. In der Sprache des Landes wird die Teigtasche kopai enaena genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -171.79,
+     -13.83
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "S\u00e3o Tom\u00e9 und Pr\u00edncipe",
+    "Region": "AFR",
+    "Dumpling": "Empanadas de Paixe",
+    "Info": "na",
+    "popupContent": "Empanadas de Paixe ist eine Teigtasche aus S\u00e3o Tom\u00e9 und Pr\u00edncipe. In der Sprache des Landes wird die Teigtasche Empadas de Peixe genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.72,
+     0.32
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Saudi-Arabien",
+    "Region": "ASI",
+    "Dumpling": "Manto",
+    "Info": "na",
+    "popupContent": "Manto ist eine Teigtasche aus Saudi-Arabien. In der Sprache des Landes wird die Teigtasche \u0645\u0646\u062a\u0648 genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     46.42,
+     24.41
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Schweden",
+    "Region": "EUR",
+    "Dumpling": "Kroppkakor",
+    "Info": "na",
+    "popupContent": "Kroppkakor ist eine Teigtasche aus Schweden. In der Sprache des Landes wird die Teigtasche Kroppkakor genannt.\nDie Teigtasche wird gekocht_ gebraten."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.03,
+     59.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Schweiz",
+    "Region": "EUR",
+    "Dumpling": "Rascholini",
+    "Info": "na",
+    "popupContent": "Rascholini ist eine Teigtasche aus Schweiz. In der Sprache des Landes wird die Teigtasche Rascholini genannt.\nDie Teigtasche wird frittieren."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.28,
+     46.57
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Senegal",
+    "Region": "AFR",
+    "Dumpling": "Fataya",
+    "Info": "na",
+    "popupContent": "Fataya ist eine Teigtasche aus Senegal. In der Sprache des Landes wird die Teigtasche Fataya genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -17.29,
+     14.34
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Serbien",
+    "Region": "EUR",
+    "Dumpling": "Zwetschgenkn\u00f6del",
+    "Info": "na",
+    "popupContent": "Zwetschgenkn\u00f6del ist eine Teigtasche aus Serbien. In der Sprache des Landes wird die Teigtasche \u041a\u043d\u0435\u0434\u043b\u0435 \u0441\u0430 \u0448\u0459\u0438\u0432\u0430\u043c\u0430 genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.57,
+     44.29
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Seychellen",
+    "Region": "AFR",
+    "Dumpling": "Samoussas",
+    "Info": "na",
+    "popupContent": "Samoussas ist eine Teigtasche aus Seychellen. In der Sprache des Landes wird die Teigtasche Samoussas genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.43,
+     -4.63
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Sierra Leone",
+    "Region": "AFR",
+    "Dumpling": "Hoontoo",
+    "Info": "na",
+    "popupContent": "Hoontoo ist eine Teigtasche aus Sierra Leone. In der Sprache des Landes wird die Teigtasche Hoontoo genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -13.17,
+     8.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Simbabwe",
+    "Region": "AFR",
+    "Dumpling": "Sadza",
+    "Info": "na",
+    "popupContent": "Sadza ist eine Teigtasche aus Simbabwe. In der Sprache des Landes wird die Teigtasche Sadza genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.89,
+     -18.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Singapur",
+    "Region": "ASI",
+    "Dumpling": "Steamed dumplings",
+    "Info": "na",
+    "popupContent": "Steamed dumplings ist eine Teigtasche aus Singapur. In der Sprache des Landes wird die Teigtasche \u713c\u58f2 genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.83,
+     1.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Slowakei",
+    "Region": "EUR",
+    "Dumpling": "\u0160truklji",
+    "Info": "na",
+    "popupContent": "\u0160truklji ist eine Teigtasche aus Slowakei. In der Sprache des Landes wird die Teigtasche \u0160truklji genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.07,
+     48.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Slowenien",
+    "Region": "EUR",
+    "Dumpling": "Idrijski \u017dlikrofi",
+    "Info": "na",
+    "popupContent": "Idrijski \u017dlikrofi ist eine Teigtasche aus Slowenien. In der Sprache des Landes wird die Teigtasche Idrija \u017dlikrofi genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.33,
+     46.04
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Somalia",
+    "Region": "AFR",
+    "Dumpling": "Sambusi",
+    "Info": "na",
+    "popupContent": "Sambusi ist eine Teigtasche aus Somalia. In der Sprache des Landes wird die Teigtasche Sambusi genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     45.25,
+     2.02
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Spanien",
+    "Region": "EUR",
+    "Dumpling": "Empanadillas",
+    "Info": "na",
+    "popupContent": "Empanadillas ist eine Teigtasche aus Spanien. In der Sprache des Landes wird die Teigtasche Empanadillas genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.45,
+     40.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Sri Lanka",
+    "Region": "ASI",
+    "Dumpling": "Thakkadi",
+    "Info": "na",
+    "popupContent": "Thakkadi ist eine Teigtasche aus Sri Lanka. In der Sprache des Landes wird die Teigtasche \u0ba4\u0b95\u0bcd\u0b95\u0b9f\u0bbf genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.22,
+     7.04
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "St. Kitts und Nevis",
+    "Region": "AME",
+    "Dumpling": "Kokosnuss Dumplings",
+    "Info": "na",
+    "popupContent": "Kokosnuss Dumplings ist eine Teigtasche aus St. Kitts und Nevis. In der Sprache des Landes wird die Teigtasche Coconut dumplings genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.72,
+     17.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "St. Lucia",
+    "Region": "AME",
+    "Dumpling": "Dumplings and cocoa tea",
+    "Info": "na",
+    "popupContent": "Dumplings and cocoa tea ist eine Teigtasche aus St. Lucia. In der Sprache des Landes wird die Teigtasche Dombway ek ditay cocoa genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.98,
+     13.89
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "St. Vincent und die Grenadinen",
+    "Region": "AME",
+    "Dumpling": "Coconut Dumplings",
+    "Info": "na",
+    "popupContent": "Coconut Dumplings ist eine Teigtasche aus St. Vincent und die Grenadinen. In der Sprache des Landes wird die Teigtasche Coconut Dumplings genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.18,
+     13.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "S\u00fcdafrika",
+    "Region": "AFR",
+    "Dumpling": "S\u00fcdafrikanische Samosas",
+    "Info": "na",
+    "popupContent": "S\u00fcdafrikanische Samosas ist eine Teigtasche aus S\u00fcdafrika. In der Sprache des Landes wird die Teigtasche Samosas genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.12,
+     -25.44
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Sudan",
+    "Region": "AFR",
+    "Dumpling": "Luqaimat",
+    "Info": "na",
+    "popupContent": "Luqaimat ist eine Teigtasche aus Sudan. In der Sprache des Landes wird die Teigtasche \u0644\u0642\u0645\u0629 \u0627\u0644\u0642\u0627\u0636\u064a genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.35,
+     15.31
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "S\u00fcdsudan",
+    "Region": "AFR",
+    "Dumpling": "Jowar Ki Litti",
+    "Info": "na",
+    "popupContent": "Jowar Ki Litti ist eine Teigtasche aus S\u00fcdsudan. In der Sprache des Landes wird die Teigtasche Jowar Ki Litti genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     31.01,
+     7.51
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Suriname",
+    "Region": "AME",
+    "Dumpling": "Bakkeljauw Pastei",
+    "Info": "na",
+    "popupContent": "Bakkeljauw Pastei ist eine Teigtasche aus Suriname. In der Sprache des Landes wird die Teigtasche Bakkeljauw Pastei genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -55.52,
+     5.28
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Syrien",
+    "Region": "ASI",
+    "Dumpling": "Shish Barak aus Syrien",
+    "Info": "na",
+    "popupContent": "Shish Barak aus Syrien ist eine Teigtasche aus Syrien. In der Sprache des Landes wird die Teigtasche \u0634\u064f\u0634\u0652\u0628\u064e\u0631\u064e\u0643 genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     36.18,
+     33.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Tadschikistan",
+    "Region": "ASI",
+    "Dumpling": "Mantu",
+    "Info": "na",
+    "popupContent": "Mantu ist eine Teigtasche aus Tadschikistan. In der Sprache des Landes wird die Teigtasche \u043c\u0430\u043d\u0442\u044b genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     68.48,
+     38.33
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Tansania",
+    "Region": "AFR",
+    "Dumpling": "Vitumbua",
+    "Info": "na",
+    "popupContent": "Vitumbua ist eine Teigtasche aus Tansania. In der Sprache des Landes wird die Teigtasche Vitumbua genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     35.69,
+     -5.82
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Thailand",
+    "Region": "ASI",
+    "Dumpling": "Kanom jeeb",
+    "Info": "na",
+    "popupContent": "Kanom jeeb ist eine Teigtasche aus Thailand. In der Sprache des Landes wird die Teigtasche \u0e02\u0e19\u0e21\u0e08\u0e35\u0e1a genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     100.35,
+     13.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Tonga",
+    "Region": "AOA",
+    "Dumpling": "Faikakai topai",
+    "Info": "na",
+    "popupContent": "Faikakai topai ist eine Teigtasche aus Tonga. In der Sprache des Landes wird die Teigtasche Faikakai T\u014dpai genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -174.0,
+     -21.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Trinidad und Tobago",
+    "Region": "AME",
+    "Dumpling": "Caribbean Boiled Dumplings",
+    "Info": "na",
+    "popupContent": "Caribbean Boiled Dumplings ist eine Teigtasche aus Trinidad und Tobago. In der Sprache des Landes wird die Teigtasche Caribbean Boiled Dumplings genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     61.44,
+     10.26
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Tschad",
+    "Region": "AFR",
+    "Dumpling": "Aiyash",
+    "Info": "na",
+    "popupContent": "Aiyash ist eine Teigtasche aus Tschad. In der Sprache des Landes wird die Teigtasche Aiyash genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     15.44,
+     12.42
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Tschechische Republik",
+    "Region": "EUR",
+    "Dumpling": "Knedliky",
+    "Info": "na",
+    "popupContent": "Knedliky ist eine Teigtasche aus Tschechische Republik. In der Sprache des Landes wird die Teigtasche Knedl\u00edky genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     14.22,
+     50.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Tunesien",
+    "Region": "AFR",
+    "Dumpling": "Brik",
+    "Info": "na",
+    "popupContent": "Brik ist eine Teigtasche aus Tunesien. In der Sprache des Landes wird die Teigtasche Brik a L\u2019oeuf genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     10.11,
+     36.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "T\u00fcrkei",
+    "Region": "EUR",
+    "Dumpling": "Manti T\u00fcrkei",
+    "Info": "na",
+    "popupContent": "Manti T\u00fcrkei ist eine Teigtasche aus T\u00fcrkei. In der Sprache des Landes wird die Teigtasche Mant\u0131 genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.54,
+     39.57
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Turkmenistan",
+    "Region": "ASI",
+    "Dumpling": "Manti Turkmenistan",
+    "Info": "na",
+    "popupContent": "Manti Turkmenistan ist eine Teigtasche aus Turkmenistan. In der Sprache des Landes wird die Teigtasche Mant\u0131 genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     57.5,
+     38.0
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Uganda",
+    "Region": "AFR",
+    "Dumpling": "Mandazi",
+    "Info": "na",
+    "popupContent": "Mandazi ist eine Teigtasche aus Uganda. In der Sprache des Landes wird die Teigtasche Maandazi genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     32.3,
+     0.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Ukraine",
+    "Region": "EUR",
+    "Dumpling": "Wareniki",
+    "Info": "na",
+    "popupContent": "Wareniki ist eine Teigtasche aus Ukraine. In der Sprache des Landes wird die Teigtasche \u0412\u0430\u0440\u0435\u043d\u0438\u043a\u0438 genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.28,
+     50.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Ungarn",
+    "Region": "EUR",
+    "Dumpling": "Pflaumenb\u00e4llchen",
+    "Info": "na",
+    "popupContent": "Pflaumenb\u00e4llchen ist eine Teigtasche aus Ungarn. In der Sprache des Landes wird die Teigtasche Gomb\u00f3c  genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.05,
+     47.29
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Uruguay",
+    "Region": "AME",
+    "Dumpling": "Empanadas Uruguay",
+    "Info": "na",
+    "popupContent": "Empanadas Uruguay ist eine Teigtasche aus Uruguay. In der Sprache des Landes wird die Teigtasche Empanadas uruguayas genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -56.11,
+     -34.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Usbekistan",
+    "Region": "ASI",
+    "Dumpling": "uzbek Manti",
+    "Info": "na",
+    "popupContent": "uzbek Manti ist eine Teigtasche aus Usbekistan. In der Sprache des Landes wird die Teigtasche \u041c\u0430\u043d\u0442\u044b genannt.\nDie Teigtasche wird ged\u00e4mpft."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     69.1,
+     41.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Venezuela",
+    "Region": "AME",
+    "Dumpling": "Bollo Pel\u00f3n",
+    "Info": "na",
+    "popupContent": "Bollo Pel\u00f3n ist eine Teigtasche aus Venezuela. In der Sprache des Landes wird die Teigtasche Bollo Pel\u00f3n genannt.\nDie Teigtasche wird gebraten."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.55,
+     10.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Vereinigte Arabische Emirate",
+    "Region": "ASI",
+    "Dumpling": "Lqeimat",
+    "Info": "na",
+    "popupContent": "Lqeimat ist eine Teigtasche aus Vereinigte Arabische Emirate. In der Sprache des Landes wird die Teigtasche \u0644\u0642\u0645\u0629 \u0627\u0644\u0642\u0627\u0636\u064a genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     54.22,
+     24.28
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Vereinigte Staaten",
+    "Region": "AME",
+    "Dumpling": "Hot pockets",
+    "Info": "na",
+    "popupContent": "Hot pockets ist eine Teigtasche aus Vereinigte Staaten. In der Sprache des Landes wird die Teigtasche Hot pockets genannt.\nDie Teigtasche wird gebacken."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.02,
+     39.91
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Vereinigtes K\u00f6nigreich",
+    "Region": "EUR",
+    "Dumpling": "Britische Suet Kn\u00f6del",
+    "Info": "na",
+    "popupContent": "Britische Suet Kn\u00f6del ist eine Teigtasche aus Vereinigtes K\u00f6nigreich. In der Sprache des Landes wird die Teigtasche British Suet Dumplings genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.05,
+     51.36
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Vietnam",
+    "Region": "ASI",
+    "Dumpling": "Shrimp and Pork Dumplings",
+    "Info": "na",
+    "popupContent": "Shrimp and Pork Dumplings ist eine Teigtasche aus Vietnam. In der Sprache des Landes wird die Teigtasche B\u00e1nh B\u00f4t Loc genannt.\nDie Teigtasche wird gekocht."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     105.55,
+     21.05
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Wei\u00dfrussland",
+    "Region": "EUR",
+    "Dumpling": "Kalduny",
+    "Info": "na",
+    "popupContent": "Kalduny ist eine Teigtasche aus Wei\u00dfrussland. In der Sprache des Landes wird die Teigtasche \u043a\u0430\u043b\u0434\u0443\u043d\u044b\u0301 genannt.\nDie Teigtasche wird gebraten."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     27.3,
+     53.52
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Zentralafrikanische Republik",
+    "Region": "AFR",
+    "Dumpling": "Samosas ZAR",
+    "Info": "na",
+    "popupContent": "Samosas ZAR ist eine Teigtasche aus Zentralafrikanische Republik. In der Sprache des Landes wird die Teigtasche Mbala genannt.\nDie Teigtasche wird frittiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     18.35,
+     4.23
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Country": "Zypern",
+    "Region": "EUR",
+    "Dumpling": "Bourekia me Anari",
+    "Info": "Teigtasche aus Zypern",
+    "popupContent": "Bourekia me Anari ist eine Teigtasche aus Zypern. In der Sprache des Landes wird die Teigtasche \u039c\u03c0\u03bf\u03c5\u03c1\u03ad\u03ba\u03b9\u03b1 \u03bc\u03b5 \u0386\u03bd\u03bd\u03b1 genannt.\nDie Teigtasche wird fritiert."
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     33.25,
+     35.1
+    ]
+   }
+  }
+ ]
+}

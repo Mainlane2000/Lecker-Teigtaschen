@@ -1,0 +1,163 @@
+.site_main {
+    margin-left: 60px;
+    margin-right: 60px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    border-bottom: 1px solid #d4d4d4;
+    color: #656363;
+    background-color: #fff;
+    box-sizing: border-box;
+    margin-top: 375px;
+}
+.intro-header {
+    display: flex;
+    padding: 20px;
+    border-bottom: 1px solid #d4d4d4;
+    flex-direction: column;
+}
+.intro-header h1{
+    font-size: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+.intro-header h2{
+    margin-top: 0px;
+    font-size: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: underline;
+}
+.intro-main {
+    padding: 20px;
+}
+.intro-main h2{
+    text-decoration: underline;
+}
+.nav-info{
+    margin: 5px;
+    list-style: none;
+}
+.nav-info p{
+    margin: 0px;
+}
+.why {
+    display: flex;
+}
+.why-header {
+    text-decoration: underline;
+}
+.why-header h1{
+    font-size: 30px;
+}
+.why-container {
+    padding: 20px;
+    padding-bottom: 0px;
+}
+.why-left {
+    text-align: justify;
+	text-align-last: none;
+}
+.why-left p{
+    margin-top: 0px;
+}
+.why-right figure{
+    margin-top: 0px;
+}
+.why-right img{
+    height: 300px;
+    width: 500px;
+}
+#fg1{
+    margin-top: 5px;
+}
+.who-header h3{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.who-container {
+    padding: 20px;
+    padding-top: 0px;
+}
+.who-container img{
+    height: 320px;
+    width: 250px;
+}
+.who-content{
+    text-align: justify;
+	text-align-last: none;
+}
+.who-content p {
+    margin-top: 0px;
+}
+.who {
+    display: flex;
+}
+.who-img{
+    display: flex;
+}
+.who-img figure{
+    margin-left: 20px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+.what-header h3{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.what-first {
+    padding-top: 0px;
+}
+.what-first p{
+    margin: 0px;
+    text-align: justify;
+}
+.what-container {
+    padding: 20px;
+    padding-top: 0px;
+}
+#what-fig {
+    float: left;
+}
+#what-fig img{
+    width: 600px;
+}
+#what-h4{
+    text-decoration: underline;
+}
+#what-p-middle{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#final-fig img{
+    width: 100%;
+}
+.goals-container {
+    padding: 20px;
+    padding-top: 0px;
+}
+.goals-header h3{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.goals-main {
+    padding-top: 0px;
+}
+.goals-main p {
+    margin: 0px;
+}
+.support-header h3{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.support-container {
+    padding: 20px;
+    padding-top: 0px;
+}
+.support-main {
+    padding-top: 0px;
+}
+.support-main p {
+    margin: 0px;
+}
